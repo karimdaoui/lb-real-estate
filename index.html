@@ -228,7 +228,10 @@ function esc(s){const d=document.createElement('div');d.textContent=s;return d.i
 function typeClass(t){return{Apartment:'apt',Villa:'villa',Penthouse:'pent',Duplex:'dup',Land:'land',Chalet:'chal'}[t]||'apt'}
 
 async function loadData(){
-  try{const r=await fetch('drops_feed.json');if(r.ok)data=await r.json()}catch(e){}
+  try{
+    const r=await fetch('drops_feed.json');
+    if(r.ok){const j=await r.json();if(j.drops&&j.drops.length)data=j}
+  }catch(e){}
   init();
 }
 

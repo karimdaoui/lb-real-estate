@@ -70,7 +70,7 @@ jobs:
           mkdir -p _site
           cp index.html _site/
           # Copy data files if they exist
-          [ -f drops_feed.json ] && cp drops_feed.json _site/ || echo "{}" > _site/drops_feed.json
+          [ -f drops_feed.json ] && cp drops_feed.json _site/ || true
           [ -f listings_db.json ] && cp listings_db.json _site/ || true
 
       - name: Upload artifact
