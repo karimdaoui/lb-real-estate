@@ -1,0 +1,83 @@
+# .github/workflows/scrape.yml
+# Runs the OLX Lebanon scraper daily and deploys the dashboard to GitHub Pages
+#
+# SETUP:
+# 1. Create a private repo on GitHub
+# 2. Add these files to the repo root:
+#    - olx_scraper.py
+#    - lebanon-panic-selling.html (rename to index.html)
+#    - .github/workflows/scrape.yml (this file)
+# 3. Go to repo Settings → Pages → Source: "GitHub Actions"
+# 4. That's it — the scraper runs daily at 8AM Beirut time
+#    and the dashboard auto-deploys with fresh data
+
+name: Scrape & Deploy
+
+on:
+  schedule:
+    # Run daily at 5:00 UTC (8:00 AM Beirut time, UTC+3)
+    - cron: '0 5 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python olx_scraper.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "OLX Scraper Bot"
+          git config user.email "bot@panicselling.lb"
+          git add listings_db.json drops_feed.json
+          git diff --staged --quiet || git commit -m "📊 Daily scrape $(date +%Y-%m-%d)"
+          git push
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Get the latest commit (after scrape)
+
+      - name: Pull latest data
+        run: git pull origin main
+
+      - name: Prepare site
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          # Copy data files if they exist
+          [ -f drops_feed.json ] && cp drops_feed.json _site/ || echo "{}" > _site/drops_feed.json
+          [ -f listings_db.json ] && cp listings_db.json _site/ || true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
