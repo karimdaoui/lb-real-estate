@@ -24,6 +24,7 @@ import random
 from datetime import datetime
 
 # ── Config ──────────────────────────────────────────────────────────
+WAR_START = "2026-03-01"
 BASE_URL = "https://www.olx.com.lb"
 
 CATEGORY_URLS = [
@@ -267,8 +268,8 @@ def update_database(db, new_listings):
                 "bathrooms": listing.get("bathrooms"),
                 "original_price": listing["price_usd"],
                 "current_price": listing["price_usd"],
-                "price_history": [{"price": listing["price_usd"], "date": today}],
-                "first_seen": today,
+                "price_history": [{"price": listing["price_usd"], "date": WAR_START}],
+                "first_seen": WAR_START,
                 "last_seen": today,
                 "last_updated": today,
                 "drop_usd": 0,

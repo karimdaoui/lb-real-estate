@@ -119,7 +119,7 @@ tbody tr{animation:rowIn .3s ease both}
   <div class="h-row">
     <div>
       <div class="logo"><span>🇱🇧</span><span class="sep">/</span><span class="lbl">panic selling</span></div>
-      <div class="tagline">Tracking price drops on Lebanon real estate · OLX listings updated daily</div>
+      <div class="tagline">Tracking price drops on Lebanon real estate since the war · Baseline: March 1, 2026</div>
     </div>
     <div class="badge-row">
       <span class="src-badge">source: olx.com.lb</span>
@@ -133,16 +133,16 @@ tbody tr{animation:rowIn .3s ease both}
   <div class="stat"><span class="stat-l">Price Drops</span><span class="stat-v r" id="st-drops">—</span></div>
   <div class="stat"><span class="stat-l">Avg Drop</span><span class="stat-v a" id="st-avg">—</span></div>
   <div class="stat"><span class="stat-l">Biggest Drop</span><span class="stat-v r" id="st-max">—</span></div>
-  <div class="stat"><span class="stat-l">Drops Today</span><span class="stat-v g" id="st-today">—</span></div>
+  <div class="stat"><span class="stat-l">Since War</span><span class="stat-v g" id="st-today">—</span></div>
 </div>
 
 <div class="how">
   <button class="how-btn" onclick="document.getElementById('howbox').classList.toggle('open')">▶ How it works</button>
   <div class="how-box" id="howbox">
     <div class="steps">
-      <div class="step"><span class="step-n">1</span><span class="step-t">Scraper runs daily, pulling every Beirut + Mount Lebanon listing from OLX</span></div>
-      <div class="step"><span class="step-n">2</span><span class="step-t">Prices are stored and compared against previous values each day</span></div>
-      <div class="step"><span class="step-n">3</span><span class="step-t">When a price drops — it appears here, ranked by discount size</span></div>
+      <div class="step"><span class="step-n">1</span><span class="step-t">Scraper runs daily, pulling every Lebanon property listing from OLX</span></div>
+      <div class="step"><span class="step-n">2</span><span class="step-t">Baseline prices locked from March 1, 2026 (start of the war)</span></div>
+      <div class="step"><span class="step-n">3</span><span class="step-t">Price drops are measured against the war-start baseline, ranked by discount</span></div>
       <div class="step"><span class="step-n">4</span><span class="step-t">Click any row to view the full listing on OLX</span></div>
     </div>
   </div>
@@ -168,7 +168,7 @@ tbody tr{animation:rowIn .3s ease both}
 
 <table>
   <thead><tr>
-    <th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Price</th><th>Was</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th>
+    <th>Property</th><th>Type</th><th class="hide-m">Area</th><th>Price Now</th><th>Mar 1 Price</th><th>Drop %</th><th>Drop $</th><th class="hide-m">Detected</th><th></th>
   </tr></thead>
   <tbody id="tbody"></tbody>
 </table>
@@ -180,15 +180,17 @@ tbody tr{animation:rowIn .3s ease both}
 </div>
 
 <footer>
-  <span>Data from OLX Lebanon · Updated daily 08:00 AM</span>
-  <span>Built for 🇱🇧 real estate watchers</span>
+  <span>Data from OLX Lebanon · Updated daily · Baseline: March 1, 2026</span>
+  <span>Tracking Lebanon real estate since the war 🇱🇧</span>
 </footer>
 </div>
 
 <script>
 const LBP_RATE=89500;
+const WAR_START='2026-03-01';
 function todayStr(){return new Date().toISOString().slice(0,10)}
 function daysAgo(n){const d=new Date();d.setDate(d.getDate()-n);return d.toISOString().slice(0,10)}
+function daysSinceWar(){return Math.floor((new Date()-new Date(WAR_START))/(1000*60*60*24))}
 
 const SAMPLE={
   generated_at:new Date().toISOString(),total_tracked:1847,total_drops:23,avg_drop_pct:17.1,biggest_drop_usd:220000,
@@ -238,14 +240,12 @@ async function loadData(){
 function init(){renderStats();buildFilters();buildAreaFilter();render()}
 
 function renderStats(){
-  const today=todayStr();
-  const dropsToday=data.drops.filter(d=>d.last_drop_date===today).length;
   const biggest=Math.max(...data.drops.map(d=>d.drop_usd),0);
   document.getElementById('st-total').textContent=data.total_tracked.toLocaleString();
   document.getElementById('st-drops').textContent=data.total_drops;
   document.getElementById('st-avg').textContent=data.avg_drop_pct+'%';
   document.getElementById('st-max').textContent=fmtPrice(biggest);
-  document.getElementById('st-today').textContent=dropsToday;
+  document.getElementById('st-today').textContent=daysSinceWar()+' days';
 }
 
 function buildFilters(){
