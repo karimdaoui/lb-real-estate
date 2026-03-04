@@ -1,15 +1,14 @@
 """
 OLX Lebanon Real Estate Scraper
 ================================
-Scrapes Beirut property listings from OLX Lebanon daily.
+Scrapes property listings from OLX Lebanon daily.
 Tracks price history and detects price drops.
 
 Usage:
-  pip install requests beautifulsoup4
+  pip install requests
   python olx_scraper.py
 
-Run daily via cron:
-  0 8 * * * cd /path/to/project && python olx_scraper.py
+Run daily via cron or GitHub Actions.
 
 Output:
   - listings_db.json     → full database of all listings + price history
@@ -17,46 +16,42 @@ Output:
 """
 
 import requests
-from bs4 import BeautifulSoup
 import json
 import os
+import re
 import time
 import random
-from datetime import datetime, timedelta
-from urllib.parse import urljoin
+from datetime import datetime
 
 # ── Config ──────────────────────────────────────────────────────────
 BASE_URL = "https://www.olx.com.lb"
-SEARCH_URLS = [
-    # Beirut apartments for sale
-    "/en/properties/apartments-duplex-for-sale/beirut_g/",
-    # Beirut houses/villas for sale
-    "/en/properties/houses-villas-for-sale/beirut_g/",
-    # Beirut land for sale
-    "/en/properties/land-for-sale/beirut_g/",
-    # Beirut chalets
-    "/en/properties/chalets-for-sale/beirut_g/",
-    # Mount Lebanon (extend coverage)
-    "/en/properties/apartments-duplex-for-sale/mount-lebanon_g/",
-    "/en/properties/houses-villas-for-sale/mount-lebanon_g/",
+
+CATEGORY_URLS = [
+    "/properties/apartments-villas-for-sale/",
+    "/properties/land-for-sale/",
+    "/properties/chalet-for-sale/",
+    "/properties/commercial-for-sale/",
+    "/properties/buildings-multiple-units-for-sale/",
 ]
 
-MAX_PAGES_PER_CATEGORY = 10  # pages to scrape per category
+MAX_PAGES_PER_CATEGORY = 20
 DB_FILE = "listings_db.json"
 DROPS_FILE = "drops_feed.json"
+
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "en-US,en;q=0.9,ar;q=0.8",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/124.0.0.0 Safari/537.36",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-# Rate limiting
-MIN_DELAY = 2  # seconds between requests
-MAX_DELAY = 5
+MIN_DELAY = 2
+MAX_DELAY = 4
 
 
 # ── Database ────────────────────────────────────────────────────────
 def load_db():
-    """Load existing listings database."""
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -64,23 +59,20 @@ def load_db():
 
 
 def save_db(db):
-    """Save listings database."""
     with open(DB_FILE, "w", encoding="utf-8") as f:
         json.dump(db, f, ensure_ascii=False, indent=2)
 
 
 def save_drops(drops):
-    """Save drops feed for the dashboard."""
     with open(DROPS_FILE, "w", encoding="utf-8") as f:
         json.dump(drops, f, ensure_ascii=False, indent=2)
 
 
 # ── Scraping ────────────────────────────────────────────────────────
 def fetch_page(url):
-    """Fetch a page with rate limiting and error handling."""
     time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
+        resp = requests.get(url, headers=HEADERS, timeout=20)
         resp.raise_for_status()
         return resp.text
     except requests.RequestException as e:
@@ -88,198 +80,193 @@ def fetch_page(url):
         return None
 
 
-def parse_listing_card(card):
-    """
-    Parse a single listing card from OLX search results.
-    
-    NOTE: OLX frequently changes their HTML structure.
-    You may need to inspect the page and update selectors.
-    Below are common patterns — adjust as needed.
-    """
-    listing = {}
+def extract_hits(html):
+    """Extract listing data from window.state JSON embedded in the page."""
+    marker = "window.state = "
+    idx = html.find(marker)
+    if idx == -1:
+        return [], 0
 
+    start = html.index("{", idx)
+    decoder = json.JSONDecoder()
     try:
-        # Listing URL and ID
-        link_el = card.find("a", href=True)
-        if not link_el:
-            return None
-        listing["url"] = urljoin(BASE_URL, link_el["href"])
-        # Extract OLX listing ID from URL (usually the numeric part)
-        url_parts = link_el["href"].rstrip("/").split("-")
-        listing["id"] = url_parts[-1] if url_parts else link_el["href"]
+        state, _ = decoder.raw_decode(html, start)
+    except json.JSONDecodeError as e:
+        print(f"  ✗ JSON decode error: {e}")
+        return [], 0
 
-        # Title
-        title_el = card.find("h2") or card.find("h3") or card.find(class_=lambda c: c and "title" in c.lower() if c else False)
-        listing["title"] = title_el.get_text(strip=True) if title_el else "Unknown"
+    algolia = state.get("algolia", {})
+    content = algolia.get("content")
+    if not content:
+        return [], 0
 
-        # Price — OLX Lebanon shows prices in USD or LBP
-        price_el = card.find(class_=lambda c: c and "price" in c.lower() if c else False)
-        if not price_el:
-            price_el = card.find("span", string=lambda s: s and ("$" in s or "USD" in s or "LBP" in s) if s else False)
-        
-        if price_el:
-            price_text = price_el.get_text(strip=True)
-            listing["price_raw"] = price_text
-            listing["price_usd"] = parse_price(price_text)
-        else:
-            listing["price_usd"] = None
-            listing["price_raw"] = "N/A"
+    hits = content.get("hits", [])
+    nb_pages = content.get("nbPages", 0)
+    return hits, nb_pages
 
-        # Location
-        location_el = card.find(class_=lambda c: c and "location" in c.lower() if c else False)
-        listing["location"] = location_el.get_text(strip=True) if location_el else ""
 
-        # Property type (inferred from category URL or title)
-        title_lower = listing["title"].lower()
-        if any(w in title_lower for w in ["villa", "house", "بيت"]):
-            listing["type"] = "Villa"
-        elif any(w in title_lower for w in ["penthouse", "بنتهاوس"]):
-            listing["type"] = "Penthouse"
-        elif any(w in title_lower for w in ["chalet", "شاليه"]):
-            listing["type"] = "Chalet"
-        elif any(w in title_lower for w in ["land", "أرض"]):
-            listing["type"] = "Land"
-        elif any(w in title_lower for w in ["duplex", "دوبلكس"]):
-            listing["type"] = "Duplex"
-        else:
-            listing["type"] = "Apartment"
-
-        # Extract area (sqm) if mentioned in title
-        import re
-        sqm_match = re.search(r'(\d+)\s*(?:sqm|m²|m2|متر)', title_lower)
-        listing["sqm"] = int(sqm_match.group(1)) if sqm_match else None
-
-        return listing
-
-    except Exception as e:
-        print(f"  ✗ Error parsing card: {e}")
+def parse_hit(hit):
+    """Convert a raw OLX hit into a normalized listing dict."""
+    extra = hit.get("extraFields") or {}
+    price = extra.get("price")
+    if not price or price < 5000:
         return None
 
+    ext_id = hit.get("externalID", "")
+    slug = hit.get("slug", "")
+    title = hit.get("title", "Unknown")
 
-def parse_price(price_text):
-    """
-    Parse price string to USD integer.
-    OLX Lebanon prices are usually in USD.
-    Handles: "$250,000", "250000 USD", "250,000$", etc.
-    """
-    import re
-    if not price_text:
-        return None
-    
-    # Remove non-numeric except commas and dots
-    cleaned = re.sub(r'[^\d,.]', '', price_text)
-    cleaned = cleaned.replace(",", "")
-    
-    try:
-        price = int(float(cleaned))
-        # Sanity check — skip if too low (probably LBP or error)
-        if price < 5000:
-            return None
-        return price
-    except (ValueError, TypeError):
-        return None
+    locations = hit.get("location", [])
+    loc_parts = []
+    district = ""
+    neighborhood = ""
+    for loc in locations:
+        level = loc.get("level", -1)
+        name = loc.get("name", "")
+        if level == 1:
+            district = name
+            loc_parts.append(name)
+        elif level == 2:
+            neighborhood = name
+            loc_parts.insert(0, name)
+    location_str = ", ".join(loc_parts) if loc_parts else "Lebanon"
+
+    sqm = extra.get("ft")
+    if sqm:
+        try:
+            sqm = int(sqm)
+        except (ValueError, TypeError):
+            sqm = None
+
+    title_lower = title.lower()
+    if any(w in title_lower for w in ["villa", "house", "بيت", "فيلا"]):
+        prop_type = "Villa"
+    elif any(w in title_lower for w in ["penthouse", "بنتهاوس"]):
+        prop_type = "Penthouse"
+    elif any(w in title_lower for w in ["chalet", "شاليه"]):
+        prop_type = "Chalet"
+    elif any(w in title_lower for w in ["land", "أرض", "ارض"]):
+        prop_type = "Land"
+    elif any(w in title_lower for w in ["duplex", "دوبلكس"]):
+        prop_type = "Duplex"
+    elif any(w in title_lower for w in ["building", "مبنى"]):
+        prop_type = "Building"
+    elif any(w in title_lower for w in ["commercial", "shop", "office", "محل", "مكتب"]):
+        prop_type = "Commercial"
+    else:
+        prop_type = "Apartment"
+
+    url = f"{BASE_URL}/ad/{slug}-ID{ext_id}.html" if slug else ""
+
+    return {
+        "id": ext_id,
+        "title": title,
+        "url": url,
+        "type": prop_type,
+        "location": location_str,
+        "district": district,
+        "neighborhood": neighborhood,
+        "sqm": sqm,
+        "price_usd": price,
+        "bedrooms": extra.get("rooms"),
+        "bathrooms": extra.get("bathrooms"),
+    }
 
 
-def scrape_category(category_url):
-    """Scrape all pages of a single category."""
+def scrape_category(cat_path):
     listings = []
-    
-    for page in range(1, MAX_PAGES_PER_CATEGORY + 1):
-        url = urljoin(BASE_URL, category_url)
-        if page > 1:
-            url = url.rstrip("/") + f"/?page={page}"
-        
-        print(f"  Fetching page {page}: {url}")
-        html = fetch_page(url)
+    url = BASE_URL + cat_path
+    print(f"  Fetching page 1: {url}")
+    html = fetch_page(url)
+    if not html:
+        return listings
+
+    hits, nb_pages = extract_hits(html)
+    if not hits:
+        print("  → No hits found on page 1, stopping.")
+        return listings
+
+    max_page = min(nb_pages, MAX_PAGES_PER_CATEGORY)
+    print(f"  → Page 1: {len(hits)} hits, {nb_pages} total pages (scraping up to {max_page})")
+
+    for hit in hits:
+        parsed = parse_hit(hit)
+        if parsed:
+            listings.append(parsed)
+
+    for page in range(2, max_page + 1):
+        page_url = f"{url}?page={page}"
+        print(f"  Fetching page {page}: {page_url}")
+        html = fetch_page(page_url)
         if not html:
             break
-        
-        soup = BeautifulSoup(html, "html.parser")
-        
-        # Find listing cards — adjust selector based on current OLX structure
-        # Common patterns: <li> with data-aut-id, <div> with listing class
-        cards = soup.find_all("li", {"data-aut-id": "itemBox"})
-        if not cards:
-            cards = soup.find_all("div", class_=lambda c: c and "listing" in c.lower() if c else False)
-        if not cards:
-            # Fallback: look for article tags or any container with links
-            cards = soup.find_all("article")
-        
-        if not cards:
-            print(f"  → No listings found on page {page}, stopping.")
+
+        hits, _ = extract_hits(html)
+        if not hits:
+            print(f"  → No hits on page {page}, stopping.")
             break
-        
-        for card in cards:
-            listing = parse_listing_card(card)
-            if listing and listing.get("price_usd"):
-                listings.append(listing)
-        
-        print(f"  → Found {len(cards)} cards, {len(listings)} valid listings so far")
-        
-        # Check if there's a next page
-        next_btn = soup.find("a", string=lambda s: s and "next" in s.lower() if s else False)
-        if not next_btn and page > 1:
-            break
-    
+
+        for hit in hits:
+            parsed = parse_hit(hit)
+            if parsed:
+                listings.append(parsed)
+
+        print(f"  → {len(listings)} valid listings so far")
+
     return listings
 
 
 # ── Price Tracking ──────────────────────────────────────────────────
 def update_database(db, new_listings):
-    """
-    Update database with new scraped listings.
-    Track price changes over time.
-    """
     today = datetime.now().strftime("%Y-%m-%d")
+    new_count = 0
     updated = 0
-    new = 0
     drops = 0
 
     for listing in new_listings:
         lid = listing["id"]
-        
+
         if lid in db:
-            # Existing listing — check for price change
             existing = db[lid]
             old_price = existing["current_price"]
             new_price = listing["price_usd"]
-            
+
             if new_price and old_price and new_price != old_price:
-                # Record price change
                 existing["price_history"].append({
                     "price": new_price,
                     "date": today,
                 })
                 existing["current_price"] = new_price
                 existing["last_updated"] = today
-                
+
                 if new_price < old_price:
                     existing["drop_usd"] = existing["original_price"] - new_price
                     existing["drop_pct"] = round(
-                        (existing["original_price"] - new_price) / existing["original_price"] * 100, 1
+                        (existing["original_price"] - new_price)
+                        / existing["original_price"] * 100, 1
                     )
                     existing["last_drop_date"] = today
                     drops += 1
-                
+
                 updated += 1
-            
-            # Update metadata that might change
+
             existing["title"] = listing["title"]
             existing["url"] = listing["url"]
             existing["last_seen"] = today
-        
         else:
-            # New listing
             db[lid] = {
                 "id": lid,
                 "title": listing["title"],
                 "url": listing["url"],
                 "type": listing["type"],
                 "location": listing["location"],
+                "district": listing.get("district", ""),
+                "neighborhood": listing.get("neighborhood", ""),
                 "sqm": listing.get("sqm"),
+                "bedrooms": listing.get("bedrooms"),
+                "bathrooms": listing.get("bathrooms"),
                 "original_price": listing["price_usd"],
                 "current_price": listing["price_usd"],
-                "price_raw": listing["price_raw"],
                 "price_history": [{"price": listing["price_usd"], "date": today}],
                 "first_seen": today,
                 "last_seen": today,
@@ -288,18 +275,14 @@ def update_database(db, new_listings):
                 "drop_pct": 0,
                 "last_drop_date": None,
             }
-            new += 1
+            new_count += 1
 
-    return new, updated, drops
+    return new_count, updated, drops
 
 
 def generate_drops_feed(db):
-    """
-    Generate the drops feed JSON consumed by the dashboard.
-    Only includes listings with actual price drops.
-    """
     drops = []
-    
+
     for lid, listing in db.items():
         if listing["drop_usd"] > 0:
             drops.append({
@@ -317,11 +300,9 @@ def generate_drops_feed(db):
                 "first_seen": listing["first_seen"],
                 "price_history": listing["price_history"],
             })
-    
-    # Sort by biggest percentage drop
+
     drops.sort(key=lambda x: x["drop_pct"], reverse=True)
-    
-    # Add summary stats
+
     feed = {
         "generated_at": datetime.now().isoformat(),
         "total_tracked": len(db),
@@ -332,7 +313,7 @@ def generate_drops_feed(db):
         "biggest_drop_usd": max((d["drop_usd"] for d in drops), default=0),
         "drops": drops,
     }
-    
+
     return feed
 
 
@@ -342,47 +323,42 @@ def main():
     print("  OLX Lebanon Real Estate Scraper")
     print(f"  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
-    
+
     db = load_db()
     print(f"\n📦 Loaded database: {len(db)} existing listings\n")
-    
+
     all_listings = []
-    
-    for cat_url in SEARCH_URLS:
+
+    for cat_url in CATEGORY_URLS:
         print(f"\n🔍 Scraping: {cat_url}")
         listings = scrape_category(cat_url)
         all_listings.extend(listings)
         print(f"  ✓ Got {len(listings)} listings from this category")
-    
+
     print(f"\n📊 Total scraped: {len(all_listings)} listings")
-    
-    # Deduplicate by ID
+
     seen = set()
     unique = []
-    for l in all_listings:
-        if l["id"] not in seen:
-            seen.add(l["id"])
-            unique.append(l)
-    
+    for item in all_listings:
+        if item["id"] not in seen:
+            seen.add(item["id"])
+            unique.append(item)
+
     print(f"📊 Unique listings: {len(unique)}")
-    
-    # Update database
-    new, updated, drops = update_database(db, unique)
+
+    new_count, updated, drops = update_database(db, unique)
     print(f"\n✅ Results:")
-    print(f"   New listings:     {new}")
+    print(f"   New listings:     {new_count}")
     print(f"   Price changes:    {updated}")
     print(f"   Price drops:      {drops}")
-    
-    # Save
+
     save_db(db)
     print(f"\n💾 Saved database: {len(db)} total listings → {DB_FILE}")
-    
-    # Generate drops feed
+
     feed = generate_drops_feed(db)
     save_drops(feed)
     print(f"📡 Generated drops feed: {feed['total_drops']} drops → {DROPS_FILE}")
-    
-    # Mark stale listings (not seen in 7+ days)
+
     today = datetime.now()
     stale = 0
     for lid, listing in db.items():
@@ -390,13 +366,13 @@ def main():
         if (today - last_seen).days > 7:
             listing["stale"] = True
             stale += 1
-    
+
     if stale:
         print(f"⚠️  {stale} listings not seen in 7+ days (possibly sold/removed)")
         save_db(db)
-    
+
     print(f"\n{'=' * 60}")
-    print(f"  Done! Dashboard data ready.")
+    print("  Done! Dashboard data ready.")
     print(f"{'=' * 60}\n")
 
 
