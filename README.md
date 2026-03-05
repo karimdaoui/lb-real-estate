@@ -1,4 +1,4 @@
-# 🇱🇧 Wardrops — Lebanon Price Tracker
+# 🇱🇧 LB Market Monitor — Lebanon Price Tracker
 
 Tracks price drops on OLX Lebanon listings since the start of the war (March 1, 2026).
 
