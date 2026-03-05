@@ -2,7 +2,7 @@
 
 Tracks price drops on OLX Lebanon listings since the start of the war (March 1, 2026).
 
-**Live dashboard:** [karimdaoui.github.io/lb-real-estate](https://karimdaoui.github.io/lb-real-estate/)
+**Live dashboard:** [karimdaoui.github.io/lb-war-market-monitor](https://karimdaoui.github.io/lb-war-market-monitor/)
 
 ## What it tracks
 
