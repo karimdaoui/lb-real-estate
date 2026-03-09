@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-08T17:35:18.530979",
-  "total_tracked": 1818,
-  "total_drops": 44,
-  "avg_drop_pct": 5.7,
+  "generated_at": "2026-03-09T06:09:58.677902",
+  "total_tracked": 1893,
+  "total_drops": 49,
+  "avg_drop_pct": 5.6,
   "biggest_drop_usd": 5000,
   "drops": [
     {
@@ -198,6 +198,34 @@
         {
           "price": 45000,
           "date": "2026-03-07"
+        }
+      ]
+    },
+    {
+      "id": "116814379",
+      "title": "Daihatsu Terios 2005",
+      "url": "https://www.olx.com.lb/ad/daihatsu-terios-2005-ID116814379.html",
+      "make": "Daihatsu",
+      "model": "Terios",
+      "body_type": "Other",
+      "year": 2005,
+      "mileage": 150000,
+      "transmission": "Automatic",
+      "location": "Yahchouch, Keserouan",
+      "original_price": 5000,
+      "current_price": 4500,
+      "drop_usd": 500,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 5000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 4500,
+          "date": "2026-03-09"
         }
       ]
     },
@@ -522,6 +550,34 @@
       ]
     },
     {
+      "id": "116812037",
+      "title": "هيونداي فوليستر 2016",
+      "url": "https://www.olx.com.lb/ad/هيونداي-فوليستر-2016-ID116812037.html",
+      "make": "Hyundai",
+      "model": "Veloster",
+      "body_type": "Hatchback",
+      "year": 2016,
+      "mileage": 35800,
+      "transmission": "Steptronic",
+      "location": "Chbaniyeh, Baabda",
+      "original_price": 9800,
+      "current_price": 9300,
+      "drop_usd": 500,
+      "drop_pct": 5.1,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 9800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 9300,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
       "id": "116399094",
       "title": "Range Rover Sport 2016",
       "url": "https://www.olx.com.lb/ad/range-rover-sport-2017-ID116399094.html",
@@ -826,6 +882,62 @@
         {
           "price": 20800,
           "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116814400",
+      "title": "Hyundai Tucson 2019",
+      "url": "https://www.olx.com.lb/ad/hyundai-tucson-2019-ID116814400.html",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 74000,
+      "transmission": "Automatic",
+      "location": "Other in West-Bekaa, West Bekaa",
+      "original_price": 17200,
+      "current_price": 16500,
+      "drop_usd": 700,
+      "drop_pct": 4.1,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17200,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 16500,
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "116808090",
+      "title": "Very rare KETTANEH source & service 1-Owner 50,000Km A6 2015 35TFSI",
+      "url": "https://www.olx.com.lb/ad/very-rare-kettaneh-source-service-1-owner-50000km-a6-2015-35tfsi-ID116808090.html",
+      "make": "Audi",
+      "model": "A6",
+      "body_type": "Sedan",
+      "year": 2015,
+      "mileage": 50000,
+      "transmission": "Automatic",
+      "location": "Badaro, Beirut",
+      "original_price": 15500,
+      "current_price": 14900,
+      "drop_usd": 600,
+      "drop_pct": 3.9,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 14900,
+          "date": "2026-03-09"
         }
       ]
     },
@@ -1250,6 +1362,34 @@
         {
           "price": 19900,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116799641",
+      "title": "Jeep Grand Cherokee limited 2017",
+      "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-limited-2017-ID116799641.html",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 130000,
+      "transmission": "Automatic",
+      "location": "Bikfaya, Metn",
+      "original_price": 19000,
+      "current_price": 18900,
+      "drop_usd": 100,
+      "drop_pct": 0.5,
+      "last_drop_date": "2026-03-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 19000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 18900,
+          "date": "2026-03-09"
         }
       ]
     }
