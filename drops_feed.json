@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-13T06:01:46.077830",
-  "total_tracked": 11843,
-  "total_drops": 48,
-  "avg_drop_pct": 6.5,
+  "generated_at": "2026-03-13T17:45:27.256933",
+  "total_tracked": 13103,
+  "total_drops": 54,
+  "avg_drop_pct": 6.7,
   "biggest_drop_usd": 500000,
   "drops": [
     {
@@ -26,6 +26,30 @@
         {
           "price": 350000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116815290",
+      "title": "apartments for sale in furn el chebbak baabdaشقق للبيع في فرن شباك",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-furn-el-chebbak-baabda-شقق-للبيع-في-فرن-شبك-ID116815290.html",
+      "type": "Apartment",
+      "location": "Ain Al Tineh, Beirut",
+      "sqm": 180,
+      "original_price": 250000,
+      "current_price": 203000,
+      "drop_usd": 47000,
+      "drop_pct": 18.8,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 203000,
+          "date": "2026-03-13"
         }
       ]
     },
@@ -126,6 +150,30 @@
       ]
     },
     {
+      "id": "116738172",
+      "title": "Unobstructed mountain and sea view IN Qornet El Hamra REF#OU131184 !",
+      "url": "https://www.olx.com.lb/ad/unobstructed-mountain-and-sea-view-in-qornet-el-hamra-refou131184-ID116738172.html",
+      "type": "Apartment",
+      "location": "Qornet El Hamra, Metn",
+      "sqm": 240,
+      "original_price": 270000,
+      "current_price": 238000,
+      "drop_usd": 32000,
+      "drop_pct": 11.9,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 270000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 238000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
       "id": "116739283",
       "title": "195 SQM Apartment in Qornet El Hamra, Metn with Terrace + View",
       "url": "https://www.olx.com.lb/ad/195-sqm-apartment-in-qornet-el-hamra-metn-with-terrace-view-ID116739283.html",
@@ -194,6 +242,30 @@
         {
           "price": 315000,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116782227",
+      "title": "Hot deal! super prime location shop for sale in Jdaide",
+      "url": "https://www.olx.com.lb/ad/hot-deal-super-prime-location-shop-for-sale-in-jdaide-ID116782227.html",
+      "type": "Commercial",
+      "location": "Jdaide, Metn",
+      "sqm": 220,
+      "original_price": 300000,
+      "current_price": 270000,
+      "drop_usd": 30000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 300000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 270000,
+          "date": "2026-03-13"
         }
       ]
     },
@@ -290,34 +362,6 @@
         {
           "price": 175000,
           "date": "2026-03-10"
-        }
-      ]
-    },
-    {
-      "id": "116132896",
-      "title": "HOLIDAY BEACH | OPEN SEA VIEW | FURNISHED | HIGH FLOOR",
-      "url": "https://www.olx.com.lb/ad/holiday-beach-open-sea-view-high-floor-ID116132896.html",
-      "type": "Apartment",
-      "location": "Zouk Mosbeh, Keserouan",
-      "sqm": 60,
-      "original_price": 390000,
-      "current_price": 390000,
-      "drop_usd": 30000,
-      "drop_pct": 7.7,
-      "last_drop_date": "2026-03-07",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 390000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 360000,
-          "date": "2026-03-07"
-        },
-        {
-          "price": 390000,
-          "date": "2026-03-08"
         }
       ]
     },
@@ -510,6 +554,54 @@
         {
           "price": 1450000,
           "date": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "116802522",
+      "title": "Prime Location Land In Bhamdoun For Sale / أرض مميزة في بحمدون للبيع",
+      "url": "https://www.olx.com.lb/ad/prime-location-land-in-bhamdoun-for-sale-أرض-مميزة-في-بحمدون-للبيع-ID116802522.html",
+      "type": "Land",
+      "location": "Bhamdoun, Aley",
+      "sqm": 1200,
+      "original_price": 160000,
+      "current_price": 150000,
+      "drop_usd": 10000,
+      "drop_pct": 6.2,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 160000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 150000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116812369",
+      "title": "3  parking spots/Maid's room/HEATING/Biaqout/بياقوت ! REF#MZ133655 !",
+      "url": "https://www.olx.com.lb/ad/3-parking-spotsmaids-roomheatingbiaqoutبياقوت-refmz133655-ID116812369.html",
+      "type": "Apartment",
+      "location": "Biaqout, Metn",
+      "sqm": 290,
+      "original_price": 240000,
+      "current_price": 225000,
+      "drop_usd": 15000,
+      "drop_pct": 6.2,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 240000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 225000,
+          "date": "2026-03-13"
         }
       ]
     },
@@ -726,6 +818,62 @@
         {
           "price": 475000,
           "date": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "id": "116132896",
+      "title": "HOLIDAY BEACH | OPEN SEA VIEW | FURNISHED | HIGH FLOOR",
+      "url": "https://www.olx.com.lb/ad/holiday-beach-open-sea-view-high-floor-ID116132896.html",
+      "type": "Apartment",
+      "location": "Zouk Mosbeh, Keserouan",
+      "sqm": 60,
+      "original_price": 390000,
+      "current_price": 375000,
+      "drop_usd": 15000,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 390000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 360000,
+          "date": "2026-03-07"
+        },
+        {
+          "price": 390000,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 375000,
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116816327",
+      "title": "Chalet/Zouk Mosbeh/ذوق مصبح/SEA&MOUNTAIN VIEW ! REF#EW133794 !",
+      "url": "https://www.olx.com.lb/ad/chaletzouk-mosbehذوق-مصبحseamountain-view-refew133794-ID116816327.html",
+      "type": "Chalet",
+      "location": "Zouk Mosbeh, Keserouan",
+      "sqm": 60,
+      "original_price": 390000,
+      "current_price": 375000,
+      "drop_usd": 15000,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-03-13",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 390000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 375000,
+          "date": "2026-03-13"
         }
       ]
     },
