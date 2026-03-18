@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-03-18T06:12:57.894046",
-  "total_tracked": 16636,
-  "total_drops": 83,
-  "avg_drop_pct": 7.0,
+  "generated_at": "2026-03-18T18:08:26.326680",
+  "total_tracked": 17394,
+  "total_drops": 92,
+  "avg_drop_pct": 7.8,
   "biggest_drop_usd": 900000,
   "drops": [
+    {
+      "id": "116444424",
+      "title": "Land For sale in Baskinta - CPKMF52",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-baskinta-cpkmf52-ID116444424.html",
+      "type": "Land",
+      "location": "Baskinta, Metn",
+      "sqm": 1804,
+      "original_price": 685000,
+      "current_price": 385000,
+      "drop_usd": 300000,
+      "drop_pct": 43.8,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 685000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 385000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116762801",
+      "title": "Douar | Brand New 2 Bedrooms Apt | Balcony | Open View | 3 Parking",
+      "url": "https://www.olx.com.lb/ad/douar-brand-new-2-bedrooms-apt-balcony-open-view-3-parking-ID116762801.html",
+      "type": "Apartment",
+      "location": "Jal El Dib, Metn",
+      "sqm": 110,
+      "original_price": 159000,
+      "current_price": 109000,
+      "drop_usd": 50000,
+      "drop_pct": 31.4,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 159000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 109000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
     {
       "id": "115621692",
       "title": "Apartments for sale Ras Beirut. شقق للبيع راس بيروت خط أول",
@@ -154,6 +202,30 @@
       ]
     },
     {
+      "id": "116072152",
+      "title": "250 SQM Independent House in Elissar, Metn + 170 SQM Terrace",
+      "url": "https://www.olx.com.lb/ad/250-sqm-independent-house-in-elissar-metn-170-sqm-terrace-ID116072152.html",
+      "type": "Villa",
+      "location": "Elissar, Metn",
+      "sqm": 250,
+      "original_price": 450000,
+      "current_price": 380000,
+      "drop_usd": 70000,
+      "drop_pct": 15.6,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 380000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
       "id": "116813894",
       "title": "apartment for sale Hazmiyeh hot deal",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-hazmiyeh-hot-deal-ID116813894.html",
@@ -198,6 +270,30 @@
         {
           "price": 3000000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116646554",
+      "title": "Duplex Apartment for sale in Dik el Mehdi with lot of Sun and Light",
+      "url": "https://www.olx.com.lb/ad/duplex-apartment-for-sale-in-dik-el-mehdu-with-lot-of-sun-and-light-ID116646554.html",
+      "type": "Duplex",
+      "location": "Dik El Mehdi, Metn",
+      "sqm": 260,
+      "original_price": 230000,
+      "current_price": 199000,
+      "drop_usd": 31000,
+      "drop_pct": 13.5,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 230000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 199000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -330,6 +426,30 @@
         {
           "price": 238000,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "115070036",
+      "title": "Furnished Apartment For Sale In Rawche Over 550 Sqm",
+      "url": "https://www.olx.com.lb/ad/furnished-apartment-for-sale-in-rawche-over-550-sqm-ID115070036.html",
+      "type": "Apartment",
+      "location": "Rawche, Beirut",
+      "sqm": 550,
+      "original_price": 3500000,
+      "current_price": 3100000,
+      "drop_usd": 400000,
+      "drop_pct": 11.4,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3500000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 3100000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -478,6 +598,30 @@
         {
           "price": 310000,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116616755",
+      "title": "Sea View - 500 Sqm - Apartment For Sale in Bliss",
+      "url": "https://www.olx.com.lb/ad/sea-view-500-sqm-apartment-for-sale-in-bliss-ID116616755.html",
+      "type": "Apartment",
+      "location": "Manara, Beirut",
+      "sqm": 500,
+      "original_price": 3300000,
+      "current_price": 2990000,
+      "drop_usd": 310000,
+      "drop_pct": 9.4,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3300000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 2990000,
+          "date": "2026-03-18"
         }
       ]
     },
@@ -1306,6 +1450,30 @@
       ]
     },
     {
+      "id": "116700613",
+      "title": "exceptional 500 sqm villa in fatqa! REF#HW130192",
+      "url": "https://www.olx.com.lb/ad/exceptional-500-sqm-villa-in-fatqa-refhw130192-ID116700613.html",
+      "type": "Villa",
+      "location": "Fatqa, Keserouan",
+      "sqm": 500,
+      "original_price": 800000,
+      "current_price": 770000,
+      "drop_usd": 30000,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 800000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 770000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
       "id": "116793627",
       "title": "Maid’s Room, swimming pool, view, Bhamdoun/بحمدون REF#OK132987",
       "url": "https://www.olx.com.lb/ad/maids-room-swimming-pool-view-bhamdounبحمدون-refok132987-ID116793627.html",
@@ -1450,6 +1618,30 @@
       ]
     },
     {
+      "id": "116810691",
+      "title": "Ultra prime location , Fully furnished , Adma /أدما REF#RS133584",
+      "url": "https://www.olx.com.lb/ad/ultra-prime-location-fully-furnished-adma-أدما-refrs133584-ID116810691.html",
+      "type": "Apartment",
+      "location": "Adma w Dafnah, Keserouan",
+      "sqm": 160,
+      "original_price": 185000,
+      "current_price": 179000,
+      "drop_usd": 6000,
+      "drop_pct": 3.2,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 185000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 179000,
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
       "id": "116810915",
       "title": "Jeita 150m2 | 40m2 Terrace | Well Maintained | Furnished | View |EL/TO",
       "url": "https://www.olx.com.lb/ad/jeita-150m2-40m2-terrace-well-maintained-furnished-view-elto-ID116810915.html",
@@ -1546,6 +1738,30 @@
         {
           "price": 825000,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116451847",
+      "title": "GMK151Y - Land For Sale In Klayaat - أرض للبيع في القليعات",
+      "url": "https://www.olx.com.lb/ad/gmk151y-land-for-sale-in-klayaat-أرض-للبيع-في-القليعات-ID116451847.html",
+      "type": "Land",
+      "location": "Klayaat, Keserouan",
+      "sqm": 990,
+      "original_price": 175000,
+      "current_price": 170000,
+      "drop_usd": 5000,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-03-18",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 175000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 170000,
+          "date": "2026-03-18"
         }
       ]
     },
