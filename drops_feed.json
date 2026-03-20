@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-20T06:04:13.861526",
-  "total_tracked": 18730,
-  "total_drops": 103,
+  "generated_at": "2026-03-20T17:49:45.587574",
+  "total_tracked": 19267,
+  "total_drops": 105,
   "avg_drop_pct": 8.7,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -222,6 +222,30 @@
         {
           "price": 249000,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116791044",
+      "title": "RWB117HM - Land with stand alone for sale in Ghazir",
+      "url": "https://www.olx.com.lb/ad/rwb117hm-land-with-stand-alone-for-sale-in-ghazir-ID116791044.html",
+      "type": "Land",
+      "location": "Ghazir, Keserouan",
+      "sqm": 1070,
+      "original_price": 325000,
+      "current_price": 260000,
+      "drop_usd": 65000,
+      "drop_pct": 20.0,
+      "last_drop_date": "2026-03-20",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 325000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 260000,
+          "date": "2026-03-20"
         }
       ]
     },
@@ -1398,6 +1422,30 @@
         {
           "price": 280000,
           "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116810441",
+      "title": "Chalet for sale in Zaarour Ref#RS108 شاليه للبيع في زعرور",
+      "url": "https://www.olx.com.lb/ad/chalet-for-sale-in-zaarour-refrs108-شاليه-للبيع-في-زعرور-ID116810441.html",
+      "type": "Chalet",
+      "location": "Zaarour, Metn",
+      "sqm": 100,
+      "original_price": 300000,
+      "current_price": 285000,
+      "drop_usd": 15000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-03-20",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 300000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 285000,
+          "date": "2026-03-20"
         }
       ]
     },
