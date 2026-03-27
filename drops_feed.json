@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-26T18:08:18.808387",
-  "total_tracked": 22901,
-  "total_drops": 177,
+  "generated_at": "2026-03-27T06:21:30.298063",
+  "total_tracked": 23125,
+  "total_drops": 180,
   "avg_drop_pct": 8.5,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -1322,6 +1322,30 @@
       ]
     },
     {
+      "id": "116615944",
+      "title": "Apartment in the Heart of ZALKA - 230 SQM With City View REF#BS127320",
+      "url": "https://www.olx.com.lb/ad/apartment-in-the-heart-of-zalka-230-sqm-with-city-view-refbs127320-ID116615944.html",
+      "type": "Apartment",
+      "location": "Zalka, Metn",
+      "sqm": 230,
+      "original_price": 198000,
+      "current_price": 180000,
+      "drop_usd": 18000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-03-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 198000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
       "id": "116794339",
       "title": "Land In Bhamdoun For Sale / أرض في بحمدون للبيع",
       "url": "https://www.olx.com.lb/ad/land-in-bhamdoun-for-sale-أرض-في-بحمدون-للبيع-ID116794339.html",
@@ -1734,6 +1758,30 @@
       ]
     },
     {
+      "id": "116688148",
+      "title": "apartments for sale in baabda شقق للبيع في بعبدا",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-baabda-شقق-للبيع-في-بعبدا-ID116688148.html",
+      "type": "Apartment",
+      "location": "Baabda Town, Baabda",
+      "sqm": 300,
+      "original_price": 600000,
+      "current_price": 556000,
+      "drop_usd": 44000,
+      "drop_pct": 7.3,
+      "last_drop_date": "2026-03-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 600000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 556000,
+          "date": "2026-03-27"
+        }
+      ]
+    },
+    {
       "id": "116823571",
       "title": "2 BEDROOMS | SABTIEH PRIME | DECORATED | MODERN, (SA-115) R. G",
       "url": "https://www.olx.com.lb/ad/2-bedrooms-sabtieh-prime-decorated-modern-sa-115-r-g-ID116823571.html",
@@ -2114,6 +2162,30 @@
         {
           "price": 375000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116819103",
+      "title": "Unobstructed View Located in a beautiful Dik El Mehdi  REF#HS132154",
+      "url": "https://www.olx.com.lb/ad/unobstructed-view-located-in-a-beautiful-dik-el-mehdi-refhs132154-ID116819103.html",
+      "type": "Apartment",
+      "location": "Dik El Mehdi, Metn",
+      "sqm": 165,
+      "original_price": 165000,
+      "current_price": 155000,
+      "drop_usd": 10000,
+      "drop_pct": 6.1,
+      "last_drop_date": "2026-03-27",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 165000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 155000,
+          "date": "2026-03-27"
         }
       ]
     },
