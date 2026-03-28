@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-27T18:00:19.646244",
-  "total_tracked": 5917,
-  "total_drops": 370,
-  "avg_drop_pct": 5.9,
+  "generated_at": "2026-03-28T06:09:30.696366",
+  "total_tracked": 5981,
+  "total_drops": 377,
+  "avg_drop_pct": 5.8,
   "biggest_drop_usd": 184000,
   "drops": [
     {
@@ -1346,6 +1346,38 @@
         {
           "price": 2500,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116803936",
+      "title": "BMW X2 2018",
+      "url": "https://www.olx.com.lb/ad/bmw-x2-2018-ID116803936.html",
+      "make": "BMW",
+      "model": "X2",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 22500,
+      "current_price": 20500,
+      "drop_usd": 2000,
+      "drop_pct": 8.9,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 22500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 21500,
+          "date": "2026-03-21"
+        },
+        {
+          "price": 20500,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -3350,6 +3382,42 @@
       ]
     },
     {
+      "id": "116807806",
+      "title": "Land Rover Discovery 2019 59000 Miles only",
+      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-59000-miles-only-ID116807806.html",
+      "make": "Land Rover",
+      "model": "Discovery",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 59000,
+      "transmission": "Steptronic",
+      "location": "Zalka, Metn",
+      "original_price": 26800,
+      "current_price": 25500,
+      "drop_usd": 1300,
+      "drop_pct": 4.9,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 26800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 26300,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 25800,
+          "date": "2026-03-20"
+        },
+        {
+          "price": 25500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
       "id": "116799303",
       "title": "Hyundai Elantra 2022",
       "url": "https://www.olx.com.lb/ad/hyundai-elantra-2022-ID116799303.html",
@@ -3882,34 +3950,6 @@
       ]
     },
     {
-      "id": "116803936",
-      "title": "BMW X2 2018",
-      "url": "https://www.olx.com.lb/ad/bmw-x2-2018-ID116803936.html",
-      "make": "BMW",
-      "model": "X2",
-      "body_type": "SUV",
-      "year": 2018,
-      "mileage": 59000,
-      "transmission": "Steptronic",
-      "location": "Saida Downtown, Saida",
-      "original_price": 22500,
-      "current_price": 21500,
-      "drop_usd": 1000,
-      "drop_pct": 4.4,
-      "last_drop_date": "2026-03-21",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 22500,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 21500,
-          "date": "2026-03-21"
-        }
-      ]
-    },
-    {
       "id": "116813701",
       "title": "BMW 3-Series 2007",
       "url": "https://www.olx.com.lb/ad/bmw-3-series-2007-ID116813701.html",
@@ -4050,6 +4090,34 @@
         {
           "price": 4300,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116816413",
+      "title": "Land Rover Range Rover SVR 2016 Super clean",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-svr-2016-super-clean-ID116816413.html",
+      "make": "Land Rover",
+      "model": "Range Rover SVR",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 100000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 45000,
+      "current_price": 43000,
+      "drop_usd": 2000,
+      "drop_pct": 4.4,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 45000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 43000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -4954,6 +5022,38 @@
       ]
     },
     {
+      "id": "116799878",
+      "title": "Hyundai Santa Fe 2014",
+      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2014-ID116799878.html",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 105000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 13000,
+      "current_price": 12500,
+      "drop_usd": 500,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12800,
+          "date": "2026-03-11"
+        },
+        {
+          "price": 12500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
       "id": "116728895",
       "title": "Mercedes-Benz C-Class 300 / 4matic AMG",
       "url": "https://www.olx.com.lb/ad/mercedes-benz-c-class-2017-4matic-amg-ID116728895.html",
@@ -5122,38 +5222,6 @@
         {
           "price": 13000,
           "date": "2026-03-19"
-        }
-      ]
-    },
-    {
-      "id": "116807806",
-      "title": "Land Rover Discovery 2019 59000 Miles only",
-      "url": "https://www.olx.com.lb/ad/land-rover-discovery-2019-59000-miles-only-ID116807806.html",
-      "make": "Land Rover",
-      "model": "Discovery",
-      "body_type": "SUV",
-      "year": 2019,
-      "mileage": 59000,
-      "transmission": "Steptronic",
-      "location": "Zalka, Metn",
-      "original_price": 26800,
-      "current_price": 25800,
-      "drop_usd": 1000,
-      "drop_pct": 3.7,
-      "last_drop_date": "2026-03-20",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 26800,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 26300,
-          "date": "2026-03-08"
-        },
-        {
-          "price": 25800,
-          "date": "2026-03-20"
         }
       ]
     },
@@ -5438,6 +5506,34 @@
       ]
     },
     {
+      "id": "116786082",
+      "title": "Land Rover Evoque Prestige very clean",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-prestige-very-clean-ID116786082.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 13800,
+      "current_price": 13300,
+      "drop_usd": 500,
+      "drop_pct": 3.6,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 13300,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
       "id": "116826267",
       "title": "Toyota FJ Cruiser 2007",
       "url": "https://www.olx.com.lb/ad/toyota-fj-cruiser-2007-ID116826267.html",
@@ -5518,6 +5614,34 @@
         {
           "price": 18800,
           "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116742956",
+      "title": "Land Rover Vogue V8 TEWTEL 1 Owner Full history !",
+      "url": "https://www.olx.com.lb/ad/land-rover-vogue-v8-tewtel-1-owner-full-history-ID116742956.html",
+      "make": "Land Rover",
+      "model": "Vogue",
+      "body_type": "SUV",
+      "year": 2013,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 27500,
+      "current_price": 26500,
+      "drop_usd": 1000,
+      "drop_pct": 3.6,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 27500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 26500,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -5646,6 +5770,34 @@
       ]
     },
     {
+      "id": "116774396",
+      "title": "Porsche Cayenne GTS 2017",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-gts-2017-ID116774396.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 115000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 36800,
+      "current_price": 35500,
+      "drop_usd": 1300,
+      "drop_pct": 3.5,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 36800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 35500,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
       "id": "116711578",
       "title": "Land Rover Range Rover Sport V8 Dynamic 2019",
       "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-v8-dynamic-2019-ID116711578.html",
@@ -5670,6 +5822,38 @@
         {
           "price": 55000,
           "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116804048",
+      "title": "Mercedes-Benz C43 AMG",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-c43-amg-ID116804048.html",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "body_type": "Sports / Coupe",
+      "year": 2017,
+      "mileage": 76000,
+      "transmission": "Steptronic",
+      "location": "Sodeco, Beirut",
+      "original_price": 29000,
+      "current_price": 28000,
+      "drop_usd": 1000,
+      "drop_pct": 3.4,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 29000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 30000,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 28000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -7898,6 +8082,34 @@
       ]
     },
     {
+      "id": "116742260",
+      "title": "Land Rover Range Rover Sport 2016",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2016-ID116742260.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 101000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 24500,
+      "current_price": 24000,
+      "drop_usd": 500,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 24500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 24000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
       "id": "116779724",
       "title": "Hyundai Tucson 2019",
       "url": "https://www.olx.com.lb/ad/hyundai-tucson-2019-ID116779724.html",
@@ -8778,34 +8990,6 @@
       ]
     },
     {
-      "id": "116799878",
-      "title": "Hyundai Santa Fe 2014",
-      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2014-ID116799878.html",
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "body_type": "SUV",
-      "year": 2014,
-      "mileage": 105000,
-      "transmission": "Steptronic",
-      "location": "Saida Downtown, Saida",
-      "original_price": 13000,
-      "current_price": 12800,
-      "drop_usd": 200,
-      "drop_pct": 1.5,
-      "last_drop_date": "2026-03-11",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 13000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 12800,
-          "date": "2026-03-11"
-        }
-      ]
-    },
-    {
       "id": "116463963",
       "title": "Porsche Cayenne Platinum 2017",
       "url": "https://www.olx.com.lb/ad/porsche-cayenne-2017-ID116463963.html",
@@ -9606,6 +9790,34 @@
         {
           "price": 8500,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116278410",
+      "title": "Porsche Macan S with GTS Specs",
+      "url": "https://www.olx.com.lb/ad/porsche-macan-s-with-gts-specs-ID116278410.html",
+      "make": "Porsche",
+      "model": "Macan",
+      "body_type": "SUV",
+      "year": 2015,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 24800,
+      "current_price": 24500,
+      "drop_usd": 300,
+      "drop_pct": 1.2,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 24800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 24500,
+          "date": "2026-03-28"
         }
       ]
     },

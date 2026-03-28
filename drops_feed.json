@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-27T17:58:30.043027",
-  "total_tracked": 23565,
-  "total_drops": 190,
+  "generated_at": "2026-03-28T06:07:37.717214",
+  "total_tracked": 23691,
+  "total_drops": 193,
   "avg_drop_pct": 8.5,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -1706,6 +1706,30 @@
         {
           "price": 110000,
           "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116807714",
+      "title": "Family share for sale at La Marina Club -Dbayeh",
+      "url": "https://www.olx.com.lb/ad/family-share-for-sale-at-la-marina-club-dbayeh-ID116807714.html",
+      "type": "Apartment",
+      "location": "Dbaye, Metn",
+      "sqm": 5,
+      "original_price": 25000,
+      "current_price": 23000,
+      "drop_usd": 2000,
+      "drop_pct": 8.0,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 25000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 23000,
+          "date": "2026-03-28"
         }
       ]
     },
@@ -3426,6 +3450,30 @@
       ]
     },
     {
+      "id": "116824423",
+      "title": "GMB217SA Apartment for sale in Batroun - شقة للبيع في البترون",
+      "url": "https://www.olx.com.lb/ad/gmb217sa-apartment-for-sale-in-batroun-شقة-للبيع-في-البترون-ID116824423.html",
+      "type": "Apartment",
+      "location": "Batroun Town, Batroun",
+      "sqm": 132,
+      "original_price": 140000,
+      "current_price": 135000,
+      "drop_usd": 5000,
+      "drop_pct": 3.6,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 140000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 135000,
+          "date": "2026-03-28"
+        }
+      ]
+    },
+    {
       "id": "116793627",
       "title": "Maid’s Room, swimming pool, view, Bhamdoun/بحمدون REF#OK132987",
       "url": "https://www.olx.com.lb/ad/maids-room-swimming-pool-view-bhamdounبحمدون-refok132987-ID116793627.html",
@@ -3794,6 +3842,30 @@
         {
           "price": 630000,
           "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116601258",
+      "title": "Ballouneh 160m2 | Mountian View | Decorated Flat | Private Street | TO",
+      "url": "https://www.olx.com.lb/ad/ballouneh-160m2-mountian-view-decorated-flat-private-street-to-ID116601258.html",
+      "type": "Apartment",
+      "location": "Ballouneh, Keserouan",
+      "sqm": 160,
+      "original_price": 165000,
+      "current_price": 160000,
+      "drop_usd": 5000,
+      "drop_pct": 3.0,
+      "last_drop_date": "2026-03-28",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 165000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 160000,
+          "date": "2026-03-28"
         }
       ]
     },
