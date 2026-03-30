@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-29T17:42:15.458079",
-  "total_tracked": 24119,
-  "total_drops": 205,
+  "generated_at": "2026-03-30T07:04:15.937142",
+  "total_tracked": 24267,
+  "total_drops": 211,
   "avg_drop_pct": 8.4,
   "biggest_drop_usd": 900000,
   "drops": [
@@ -550,6 +550,34 @@
       ]
     },
     {
+      "id": "116819290",
+      "title": "Warehouse/Salim Salam/سليم سلام/Water availability/REF#TD133932 !",
+      "url": "https://www.olx.com.lb/ad/warehousesalim-salamسليم-سلامwater-availabilityreftd133932-ID116819290.html",
+      "type": "Villa",
+      "location": "Salim Slam, Beirut",
+      "sqm": 400,
+      "original_price": 110000,
+      "current_price": 92000,
+      "drop_usd": 18000,
+      "drop_pct": 16.4,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 110000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 103000,
+          "date": "2026-03-17"
+        },
+        {
+          "price": 92000,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
       "id": "116775870",
       "title": "Commercial for sale Ref#JF103  تجاري للبيع",
       "url": "https://www.olx.com.lb/ad/commercial-for-sale-refjf103-تجاري-للبيع-ID116775870.html",
@@ -1046,6 +1074,30 @@
         {
           "price": 238000,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116804571",
+      "title": "Office/Jbeil Town/جبيل/Two underground parking ! REF#YH133360 !",
+      "url": "https://www.olx.com.lb/ad/officejbeil-townجبيلtwo-underground-parking-refyh133360-ID116804571.html",
+      "type": "Commercial",
+      "location": "Jbeil Town, Jbeil",
+      "sqm": 200,
+      "original_price": 475000,
+      "current_price": 420000,
+      "drop_usd": 55000,
+      "drop_pct": 11.6,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 475000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 420000,
+          "date": "2026-03-30"
         }
       ]
     },
@@ -1630,6 +1682,30 @@
         {
           "price": 50000,
           "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116806460",
+      "title": "Good space for investment,Prime location,Baabda /بعبدا REF#HA133446",
+      "url": "https://www.olx.com.lb/ad/good-space-for-investmentprime-locationbaabda-بعبدا-refha133446-ID116806460.html",
+      "type": "Apartment",
+      "location": "Baabda Town, Baabda",
+      "sqm": 550,
+      "original_price": 77000,
+      "current_price": 70000,
+      "drop_usd": 7000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 77000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 70000,
+          "date": "2026-03-30"
         }
       ]
     },
@@ -2378,30 +2454,6 @@
         {
           "price": 1450000,
           "date": "2026-03-10"
-        }
-      ]
-    },
-    {
-      "id": "116819290",
-      "title": "Warehouse/Salim Salam/سليم سلام/Water availability/REF#TD133932 !",
-      "url": "https://www.olx.com.lb/ad/warehousesalim-salamسليم-سلامwater-availabilityreftd133932-ID116819290.html",
-      "type": "Villa",
-      "location": "Salim Slam, Beirut",
-      "sqm": 400,
-      "original_price": 110000,
-      "current_price": 103000,
-      "drop_usd": 7000,
-      "drop_pct": 6.4,
-      "last_drop_date": "2026-03-17",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 110000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 103000,
-          "date": "2026-03-17"
         }
       ]
     },
@@ -3162,6 +3214,30 @@
       ]
     },
     {
+      "id": "116804528",
+      "title": "Prime Location,Surrounded by Villas, bhamdoun/بحمدون  REF#OK133356",
+      "url": "https://www.olx.com.lb/ad/prime-locationsurrounded-by-villas-bhamdounبحمدون-refok133356-ID116804528.html",
+      "type": "Villa",
+      "location": "Bhamdoun, Aley",
+      "sqm": 2674,
+      "original_price": 588000,
+      "current_price": 560000,
+      "drop_usd": 28000,
+      "drop_pct": 4.8,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 588000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 560000,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
       "id": "116828941",
       "title": "Modern chalet , kfardebien -Tilal Al Aasal / تلال العسل  REF#ML134170",
       "url": "https://www.olx.com.lb/ad/modern-chalet-kfardebien-tilal-al-aasal-تلال-العسل-refml134170-ID116828941.html",
@@ -3350,6 +3426,30 @@
         {
           "price": 215000,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116772609",
+      "title": "Apartment For Sale in Rabweh شقة للبيع في الربوه CPCF320",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-rabweh-شقة-للبيع-في-الربوه-cpcf320-ID116772609.html",
+      "type": "Apartment",
+      "location": "Rabweh, Metn",
+      "sqm": 210,
+      "original_price": 450000,
+      "current_price": 430000,
+      "drop_usd": 20000,
+      "drop_pct": 4.4,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 430000,
+          "date": "2026-03-30"
         }
       ]
     },
@@ -4278,6 +4378,30 @@
       ]
     },
     {
+      "id": "116706738",
+      "title": "Industrial and commercial space in the Nahr El Mot--REF#EH130401 !",
+      "url": "https://www.olx.com.lb/ad/industrial-and-commercial-space-in-the-nahr-el-mot-refeh130401-ID116706738.html",
+      "type": "Commercial",
+      "location": "Nahr El Mott, Metn",
+      "sqm": 350,
+      "original_price": 180000,
+      "current_price": 175000,
+      "drop_usd": 5000,
+      "drop_pct": 2.8,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 175000,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
       "id": "116787707",
       "title": "Commercial Office in Antelias Ref#JF105 مكتب تجاري للبيع في أنطلياس",
       "url": "https://www.olx.com.lb/ad/commercial-office-in-antelias-refjf105-مكتب-تجاري-للبيع-في-أنطلياس-ID116787707.html",
@@ -4802,6 +4926,30 @@
         {
           "price": 138000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116806302",
+      "title": "Investment Opportunity – Prime Land in Amchit/عمشيت REF#RS123725",
+      "url": "https://www.olx.com.lb/ad/investment-opportunity-prime-land-in-amchitعمشيت-refrs123725-ID116806302.html",
+      "type": "Land",
+      "location": "Aamchit, Jbeil",
+      "sqm": 1737,
+      "original_price": 607000,
+      "current_price": 599000,
+      "drop_usd": 8000,
+      "drop_pct": 1.3,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 607000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 599000,
+          "date": "2026-03-30"
         }
       ]
     },

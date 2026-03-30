@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T17:44:06.599794",
-  "total_tracked": 6254,
-  "total_drops": 389,
-  "avg_drop_pct": 5.9,
+  "generated_at": "2026-03-30T07:06:45.948430",
+  "total_tracked": 6321,
+  "total_drops": 392,
+  "avg_drop_pct": 5.8,
   "biggest_drop_usd": 184000,
   "drops": [
     {
@@ -6062,6 +6062,34 @@
       ]
     },
     {
+      "id": "116778141",
+      "title": "2019 Renault Sandero Stepway Black/Black Company Source & Maintenance",
+      "url": "https://www.olx.com.lb/ad/2019-renault-sandero-stepway-blackblack-company-source-maintenance-ID116778141.html",
+      "make": "Renault",
+      "model": "Sandero Stepway",
+      "body_type": "Hatchback",
+      "year": 2019,
+      "mileage": 160000,
+      "transmission": "Steptronic",
+      "location": "Achrafieh, Beirut",
+      "original_price": 8800,
+      "current_price": 8500,
+      "drop_usd": 300,
+      "drop_pct": 3.4,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 8800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 8500,
+          "date": "2026-03-30"
+        }
+      ]
+    },
+    {
       "id": "116806251",
       "title": "Mitsubishi Outlander 2012",
       "url": "https://www.olx.com.lb/ad/mitsubishi-outlander-2012-ID116806251.html",
@@ -7206,6 +7234,34 @@
         {
           "price": 36000,
           "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116835581",
+      "title": "Jeep Cherokee 2017",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2018-ID116835581.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "Other",
+      "year": 2018,
+      "mileage": 110,
+      "transmission": "Automatic",
+      "location": "Kfarsaroun, Koura",
+      "original_price": 18500,
+      "current_price": 18000,
+      "drop_usd": 500,
+      "drop_pct": 2.7,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 18500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 18000,
+          "date": "2026-03-30"
         }
       ]
     },
@@ -8998,6 +9054,34 @@
         {
           "price": 5800,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116670548",
+      "title": "Range Rover Sport  V8 2019- Clean Carfax",
+      "url": "https://www.olx.com.lb/ad/range-rover-sport-v8-2019-clean-carfax-ID116670548.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 50000,
+      "transmission": "Steptronic",
+      "location": "Mansourieh, Metn",
+      "original_price": 59000,
+      "current_price": 58000,
+      "drop_usd": 1000,
+      "drop_pct": 1.7,
+      "last_drop_date": "2026-03-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 59000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 58000,
+          "date": "2026-03-30"
         }
       ]
     },
