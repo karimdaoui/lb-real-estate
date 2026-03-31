@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-31T06:24:43.223452",
-  "total_tracked": 25050,
-  "total_drops": 228,
+  "generated_at": "2026-03-31T18:04:18.340532",
+  "total_tracked": 25639,
+  "total_drops": 230,
   "avg_drop_pct": 8.8,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -546,6 +546,30 @@
         {
           "price": 70000,
           "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "id": "116782363",
+      "title": "GATED COMMUNITY IN ACHRAFIEH PRIME (165SQ) 2 MASTER BEDS , (AC-1108)",
+      "url": "https://www.olx.com.lb/ad/gated-community-in-achrafieh-prime-165sq-2-master-beds-ac-1108-ID116782363.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 165,
+      "original_price": 360000,
+      "current_price": 299000,
+      "drop_usd": 61000,
+      "drop_pct": 16.9,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 360000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 299000,
+          "date": "2026-03-31"
         }
       ]
     },
@@ -3390,6 +3414,30 @@
         {
           "price": 285000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116728466",
+      "title": "Apartment for Sale in Ain Saadeh-Exclusive",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-ain-saadeh-exclusive-ID116728466.html",
+      "type": "Apartment",
+      "location": "Ain Saadeh, Metn",
+      "sqm": 270,
+      "original_price": 379000,
+      "current_price": 360000,
+      "drop_usd": 19000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-03-31",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 379000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 360000,
+          "date": "2026-03-31"
         }
       ]
     },
