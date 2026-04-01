@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-31T18:04:18.340532",
-  "total_tracked": 25639,
-  "total_drops": 230,
-  "avg_drop_pct": 8.8,
+  "generated_at": "2026-04-01T06:55:56.947112",
+  "total_tracked": 25870,
+  "total_drops": 234,
+  "avg_drop_pct": 8.7,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -2006,6 +2006,30 @@
       ]
     },
     {
+      "id": "116833025",
+      "title": "GMK266YAJ - Office For Sale In Haret Sakher - مكتب للبيع في حارة صخر",
+      "url": "https://www.olx.com.lb/ad/gmk266yaj-office-for-sale-in-haret-sakher-مكتب-للبيع-في-حارة-صخر-ID116833025.html",
+      "type": "Commercial",
+      "location": "Haret Sakher, Keserouan",
+      "sqm": 75,
+      "original_price": 115000,
+      "current_price": 105000,
+      "drop_usd": 10000,
+      "drop_pct": 8.7,
+      "last_drop_date": "2026-04-01",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 115000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 105000,
+          "date": "2026-04-01"
+        }
+      ]
+    },
+    {
       "id": "116810691",
       "title": "Ultra prime location , Fully furnished , Adma /أدما REF#RS133584",
       "url": "https://www.olx.com.lb/ad/ultra-prime-location-fully-furnished-adma-أدما-refrs133584-ID116810691.html",
@@ -2322,6 +2346,30 @@
         {
           "price": 120000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116838533",
+      "title": "Jiyeh Marina Resort - Chalet for sale",
+      "url": "https://www.olx.com.lb/ad/jiyeh-marina-resort-chalet-for-sale-ID116838533.html",
+      "type": "Chalet",
+      "location": "Jiyyeh, Chouf",
+      "sqm": 75,
+      "original_price": 195000,
+      "current_price": 180000,
+      "drop_usd": 15000,
+      "drop_pct": 7.7,
+      "last_drop_date": "2026-04-01",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 195000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-04-01"
         }
       ]
     },
@@ -4606,6 +4654,30 @@
       ]
     },
     {
+      "id": "116808516",
+      "title": "200SQM Apartment in Furn El Chebbak for Sale شقة للبيع في فرن الشباك",
+      "url": "https://www.olx.com.lb/ad/200sqm-apartment-in-furn-el-chebbak-for-sale-ID116808516.html",
+      "type": "Apartment",
+      "location": "Furn El Chebbak, Baabda",
+      "sqm": 200,
+      "original_price": 349000,
+      "current_price": 339000,
+      "drop_usd": 10000,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-04-01",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 349000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 339000,
+          "date": "2026-04-01"
+        }
+      ]
+    },
+    {
       "id": "116413658",
       "title": "RWK450CA - Land For Sale In Sahel Alma - أرض للبيع في ساحل علما",
       "url": "https://www.olx.com.lb/ad/rwk450ca-land-for-sale-in-sahel-alma-أرض-للبيع-في-ساحل-علما-ID116413658.html",
@@ -5274,6 +5346,30 @@
         {
           "price": 548000,
           "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116050115",
+      "title": "NEW TOWER IN BLISS PRIME (180SQ) 2 MASTER BEDS , (HA-227)",
+      "url": "https://www.olx.com.lb/ad/new-tower-in-bliss-prime-180sq-2-master-beds-ha-227-ID116050115.html",
+      "type": "Apartment",
+      "location": "Hamra, Beirut",
+      "sqm": 180,
+      "original_price": 570000,
+      "current_price": 560000,
+      "drop_usd": 10000,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-04-01",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 570000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 560000,
+          "date": "2026-04-01"
         }
       ]
     },
