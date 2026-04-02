@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-01T18:00:04.542928",
-  "total_tracked": 26297,
-  "total_drops": 245,
+  "generated_at": "2026-04-02T06:20:44.150415",
+  "total_tracked": 26587,
+  "total_drops": 248,
   "avg_drop_pct": 9.0,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -1138,6 +1138,30 @@
         {
           "price": 450000,
           "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116833549",
+      "title": "lands for sale in Douma أرض للبيع في دوما",
+      "url": "https://www.olx.com.lb/ad/lands-for-sale-in-douma-أرض-للبيع-في-دوما-ID116833549.html",
+      "type": "Land",
+      "location": "Douma, Batroun",
+      "sqm": 2500,
+      "original_price": 75000,
+      "current_price": 65000,
+      "drop_usd": 10000,
+      "drop_pct": 13.3,
+      "last_drop_date": "2026-04-02",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 75000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 65000,
+          "date": "2026-04-02"
         }
       ]
     },
@@ -3050,6 +3074,30 @@
       ]
     },
     {
+      "id": "116615954",
+      "title": "Unobstructed view, metn, bsalim, majzoub/مجذوب - بصاليم REF#BS127321",
+      "url": "https://www.olx.com.lb/ad/unobstructed-view-metn-bsalim-majzoubمجذوب-بصاليم-refbs127321-ID116615954.html",
+      "type": "Apartment",
+      "location": "Bsalim, Metn",
+      "sqm": 150,
+      "original_price": 235000,
+      "current_price": 220000,
+      "drop_usd": 15000,
+      "drop_pct": 6.4,
+      "last_drop_date": "2026-04-02",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 235000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 220000,
+          "date": "2026-04-02"
+        }
+      ]
+    },
+    {
       "id": "110405949",
       "title": "zahle whole building 8 apartments brand new open view  #2271",
       "url": "https://www.olx.com.lb/ad/zahle-whole-building-8-apartments-brand-new-open-view-2271-ID110405949.html",
@@ -3478,6 +3526,30 @@
         {
           "price": 137000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116808932",
+      "title": "Fully renovated , decorated, Baouchrieh / بوشرية REF#EH133461",
+      "url": "https://www.olx.com.lb/ad/fully-renovated-decorated-baouchrieh-بوشرية-refeh133461-ID116808932.html",
+      "type": "Apartment",
+      "location": "Baouchriye, Metn",
+      "sqm": 190,
+      "original_price": 190000,
+      "current_price": 180000,
+      "drop_usd": 10000,
+      "drop_pct": 5.3,
+      "last_drop_date": "2026-04-02",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 190000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-04-02"
         }
       ]
     },
