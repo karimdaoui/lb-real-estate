@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-05T06:22:42.781901",
-  "total_tracked": 28048,
-  "total_drops": 278,
+  "generated_at": "2026-04-05T17:43:15.760323",
+  "total_tracked": 28153,
+  "total_drops": 285,
   "avg_drop_pct": 8.9,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -1042,6 +1042,30 @@
         {
           "price": 3000000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116705597",
+      "title": "APARTMENT FOR SALE",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-ID116705597.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 142,
+      "original_price": 350000,
+      "current_price": 300000,
+      "drop_usd": 50000,
+      "drop_pct": 14.3,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 350000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 300000,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -3158,6 +3182,30 @@
       ]
     },
     {
+      "id": "116558632",
+      "title": "NEW BUILDING IN ACHRAFIEH PRIME (130SQ) 2 BEDROOMS , (AC-514)",
+      "url": "https://www.olx.com.lb/ad/new-building-in-achrafieh-prime-130sq-2-bedrooms-ac-514-ID116558632.html",
+      "type": "Building",
+      "location": "Achrafieh, Beirut",
+      "sqm": 130,
+      "original_price": 350000,
+      "current_price": 325000,
+      "drop_usd": 25000,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 350000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 325000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116783519",
       "title": "265 Fully Equipped Duplex for sale in Bouar - Open Panoramic sea view",
       "url": "https://www.olx.com.lb/ad/265-fully-equipped-duplex-for-sale-in-bouar-open-panoramic-sea-view-ID116783519.html",
@@ -3586,6 +3634,30 @@
         {
           "price": 375000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116522165",
+      "title": "220 sqm apartment for sale in Tripoli - el mina REF#BD124848",
+      "url": "https://www.olx.com.lb/ad/220-sqm-apartment-for-sale-in-tripoli-el-mina-refbd124848-ID116522165.html",
+      "type": "Apartment",
+      "location": "Dam wa Farz, Tripoli",
+      "sqm": 220,
+      "original_price": 160000,
+      "current_price": 150000,
+      "drop_usd": 10000,
+      "drop_pct": 6.2,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 160000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 150000,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -4118,6 +4190,30 @@
       ]
     },
     {
+      "id": "116836224",
+      "title": "Apartment for sale in Naccache 180,000$ شقة للبيع في النقاش",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-naccache-190000-شقة-للبيع-في-النقاش-ID116836224.html",
+      "type": "Apartment",
+      "location": "Naccache, Metn",
+      "sqm": 160,
+      "original_price": 190000,
+      "current_price": 180000,
+      "drop_usd": 10000,
+      "drop_pct": 5.3,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 190000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116827218",
       "title": "Brand New Three Bedroom Apartment in Qornet El Hamra with Terrace",
       "url": "https://www.olx.com.lb/ad/brand-new-three-bedroom-apartment-in-qornet-el-hamra-with-terrace-ID116827218.html",
@@ -4510,6 +4606,30 @@
         {
           "price": 560000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "116835585",
+      "title": "Bqennaya Sea View Apartment - شقة بقنايا بإطلالة بحرية مميزة",
+      "url": "https://www.olx.com.lb/ad/bqennaya-sea-view-apartment-شقة-بقنايا-بإطلالة-بحرية-مميزة-ID116835585.html",
+      "type": "Apartment",
+      "location": "Bqennaya, Metn",
+      "sqm": 220,
+      "original_price": 420000,
+      "current_price": 400000,
+      "drop_usd": 20000,
+      "drop_pct": 4.8,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 420000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 400000,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -5410,6 +5530,30 @@
       ]
     },
     {
+      "id": "116555716",
+      "title": "Apartmnet for Sale in Jdeideh شقة للبيع في الجديدة",
+      "url": "https://www.olx.com.lb/ad/apartmnet-for-sale-in-jdeideh-شقة-للبيع-في-الجديدة-ID116555716.html",
+      "type": "Apartment",
+      "location": "Jdaide, Metn",
+      "sqm": 200,
+      "original_price": 310000,
+      "current_price": 300000,
+      "drop_usd": 10000,
+      "drop_pct": 3.2,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 310000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 300000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116033342",
       "title": "OFFICE IN THE HEART OF DOWNTOWN + SEA VIEW (180SQ) , (AC-900)",
       "url": "https://www.olx.com.lb/ad/office-in-the-heart-of-downtown-sea-view-180sq-ac-900-ID116033342.html",
@@ -6278,6 +6422,30 @@
         {
           "price": 230000,
           "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116821593",
+      "title": "Apartment for sale in Zalka 230,000$ شقة للبيع في الزلقا",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-zalka-235000-شقة-للبيع-في-الزلقا-ID116821593.html",
+      "type": "Apartment",
+      "location": "Zalka, Metn",
+      "sqm": 160,
+      "original_price": 235000,
+      "current_price": 230000,
+      "drop_usd": 5000,
+      "drop_pct": 2.1,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 235000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 230000,
+          "date": "2026-04-05"
         }
       ]
     },

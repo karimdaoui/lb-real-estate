@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-05T06:24:33.982008",
-  "total_tracked": 7435,
-  "total_drops": 529,
-  "avg_drop_pct": 6.0,
+  "generated_at": "2026-04-05T17:45:14.194758",
+  "total_tracked": 7494,
+  "total_drops": 543,
+  "avg_drop_pct": 6.1,
   "biggest_drop_usd": 184000,
   "drops": [
     {
@@ -66,6 +66,34 @@
         {
           "price": 1234,
           "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116661902",
+      "title": "Porsche Cayenne 2017",
+      "url": "https://www.olx.com.lb/ad/porsche-cayenne-2017-ID116661902.html",
+      "make": "Porsche",
+      "model": "Cayenne",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 2017,
+      "transmission": "Automatic",
+      "location": "Hammana, Baabda",
+      "original_price": 12345,
+      "current_price": 1111,
+      "drop_usd": 11234,
+      "drop_pct": 91.0,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12345,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1111,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -430,6 +458,38 @@
         {
           "price": 4700,
           "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116811154",
+      "title": "Chevrolet Blazer 2019",
+      "url": "https://www.olx.com.lb/ad/chevrolet-blazer-2019-ID116811154.html",
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "body_type": "SUV",
+      "year": 2019,
+      "mileage": 82000,
+      "transmission": "Steptronic",
+      "location": "Aicha Bakkar, Beirut",
+      "original_price": 24000,
+      "current_price": 20000,
+      "drop_usd": 4000,
+      "drop_pct": 16.7,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 24000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 23000,
+          "date": "2026-03-07"
+        },
+        {
+          "price": 20000,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -1022,6 +1082,34 @@
         {
           "price": 6500,
           "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116842145",
+      "title": "نيسان فرونتير",
+      "url": "https://www.olx.com.lb/ad/نيسان-صني-2017-ID116842145.html",
+      "make": "Nissan",
+      "model": "Sunny",
+      "body_type": "Sedan",
+      "year": 2017,
+      "mileage": 108,
+      "transmission": "Automatic",
+      "location": "Minieh-Denniye, Minieh-Denniye",
+      "original_price": 7400,
+      "current_price": 6500,
+      "drop_usd": 900,
+      "drop_pct": 12.2,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 7400,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 6500,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -2486,6 +2574,70 @@
       ]
     },
     {
+      "id": "116748700",
+      "title": "Mercedes-Benz GLC300/2017",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc3002017-ID116748700.html",
+      "make": "Mercedes-Benz",
+      "model": "GLC-Class",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 21500,
+      "current_price": 19800,
+      "drop_usd": 1700,
+      "drop_pct": 7.9,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 21500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 20500,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 20000,
+          "date": "2026-03-21"
+        },
+        {
+          "price": 19800,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
+      "id": "116834547",
+      "title": "Jeep Wrangler 2020 TRAILRATED",
+      "url": "https://www.olx.com.lb/ad/jeep-wrangler-2020-trailrated-ID116834547.html",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 81000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 32000,
+      "current_price": 29500,
+      "drop_usd": 2500,
+      "drop_pct": 7.8,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 32000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 29500,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116794840",
       "title": "Ford Explorer 2015",
       "url": "https://www.olx.com.lb/ad/ford-explorer-2015-ID116794840.html",
@@ -3014,38 +3166,6 @@
         {
           "price": 40000,
           "date": "2026-03-26"
-        }
-      ]
-    },
-    {
-      "id": "116748700",
-      "title": "Mercedes-Benz GLC300/2017",
-      "url": "https://www.olx.com.lb/ad/mercedes-benz-glc3002017-ID116748700.html",
-      "make": "Mercedes-Benz",
-      "model": "GLC-Class",
-      "body_type": "SUV",
-      "year": 2017,
-      "mileage": 90000,
-      "transmission": "Steptronic",
-      "location": "Saida Downtown, Saida",
-      "original_price": 21500,
-      "current_price": 20000,
-      "drop_usd": 1500,
-      "drop_pct": 7.0,
-      "last_drop_date": "2026-03-21",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 21500,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 20500,
-          "date": "2026-03-08"
-        },
-        {
-          "price": 20000,
-          "date": "2026-03-21"
         }
       ]
     },
@@ -3638,6 +3758,42 @@
       ]
     },
     {
+      "id": "116799878",
+      "title": "Hyundai Santa Fe 2014",
+      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2014-ID116799878.html",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 105000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 13000,
+      "current_price": 12200,
+      "drop_usd": 800,
+      "drop_pct": 6.2,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12800,
+          "date": "2026-03-11"
+        },
+        {
+          "price": 12500,
+          "date": "2026-03-28"
+        },
+        {
+          "price": 12200,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116812238",
       "title": "Land Rover Range Rover Sport 2018 Dynamic V8 Ajnabieh clean carfax",
       "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2018-dynamic-ajnabieh-clean-carfax-ID116812238.html",
@@ -3666,6 +3822,34 @@
         {
           "price": 53000,
           "date": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "id": "116648555",
+      "title": "Land Rover Evoque 2014",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-2014-ID116648555.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 136000,
+      "transmission": "Steptronic",
+      "location": "Zahle Town, Zahle",
+      "original_price": 12800,
+      "current_price": 12000,
+      "drop_usd": 800,
+      "drop_pct": 6.2,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 12800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12000,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -4102,6 +4286,34 @@
       ]
     },
     {
+      "id": "116842029",
+      "title": "Honda Civic 2006 - 70/666842",
+      "url": "https://www.olx.com.lb/ad/honda-civic-2006-70666842-ID116842029.html",
+      "make": "Honda",
+      "model": "Civic",
+      "body_type": "Sedan",
+      "year": 2006,
+      "mileage": 270000,
+      "transmission": "Automatic",
+      "location": "Sin El Fil, Metn",
+      "original_price": 6800,
+      "current_price": 6400,
+      "drop_usd": 400,
+      "drop_pct": 5.9,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 6800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 6400,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116744628",
       "title": "Land Rover Vogue 2010 Supercharged",
       "url": "https://www.olx.com.lb/ad/land-rover-vogue-2010-supercharged-ID116744628.html",
@@ -4154,6 +4366,38 @@
         {
           "price": 24500,
           "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116732525",
+      "title": "Toyota Prado 2016",
+      "url": "https://www.olx.com.lb/ad/toyota-prado-2016-ID116732525.html",
+      "make": "Toyota",
+      "model": "Prado",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 102000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 34500,
+      "current_price": 32500,
+      "drop_usd": 2000,
+      "drop_pct": 5.8,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 34500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 33000,
+          "date": "2026-03-08"
+        },
+        {
+          "price": 32500,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -4626,6 +4870,34 @@
       ]
     },
     {
+      "id": "116843206",
+      "title": "Mercedes-Benz SLK 280 2006 Amg package",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-slk-280-2006-amg-package-ID116843206.html",
+      "make": "Mercedes-Benz",
+      "model": "SLK/SLC-Class",
+      "body_type": "Convertible",
+      "year": 2006,
+      "mileage": 90000,
+      "transmission": "Steptronic",
+      "location": "Akkar",
+      "original_price": 5500,
+      "current_price": 5200,
+      "drop_usd": 300,
+      "drop_pct": 5.5,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 5500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 5200,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116507474",
       "title": "Jeep Grand Cherokee 2017",
       "url": "https://www.olx.com.lb/ad/jeep-grand-cherokee-2017-ID116507474.html",
@@ -4650,6 +4922,34 @@
         {
           "price": 17500,
           "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116807208",
+      "title": "Citroen Berlingo 2003",
+      "url": "https://www.olx.com.lb/ad/citroen-berlingo-2003-ID116807208.html",
+      "make": "Citroen",
+      "model": "Berlingo",
+      "body_type": "Van / Bus",
+      "year": 2003,
+      "mileage": 300000,
+      "transmission": "Manual",
+      "location": "Obeidat, Jbeil",
+      "original_price": 3700,
+      "current_price": 3500,
+      "drop_usd": 200,
+      "drop_pct": 5.4,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 3700,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 3500,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -6446,34 +6746,6 @@
       ]
     },
     {
-      "id": "116732525",
-      "title": "Toyota Prado 2016",
-      "url": "https://www.olx.com.lb/ad/toyota-prado-2016-ID116732525.html",
-      "make": "Toyota",
-      "model": "Prado",
-      "body_type": "SUV",
-      "year": 2016,
-      "mileage": 102000,
-      "transmission": "Steptronic",
-      "location": "Saida Downtown, Saida",
-      "original_price": 34500,
-      "current_price": 33000,
-      "drop_usd": 1500,
-      "drop_pct": 4.3,
-      "last_drop_date": "2026-03-08",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 34500,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 33000,
-          "date": "2026-03-08"
-        }
-      ]
-    },
-    {
       "id": "116812241",
       "title": "Audi Q7 2018 V6 premium plus luxury package Ajnabieh Clean carfax",
       "url": "https://www.olx.com.lb/ad/audi-q7-2018-v6-premium-plus-luxury-package-ajnabieh-clean-carfax-ID116812241.html",
@@ -6582,34 +6854,6 @@
         {
           "price": 6700,
           "date": "2026-04-02"
-        }
-      ]
-    },
-    {
-      "id": "116811154",
-      "title": "Chevrolet Blazer 2019",
-      "url": "https://www.olx.com.lb/ad/chevrolet-blazer-2019-ID116811154.html",
-      "make": "Chevrolet",
-      "model": "Blazer",
-      "body_type": "SUV",
-      "year": 2019,
-      "mileage": 82000,
-      "transmission": "Steptronic",
-      "location": "Aicha Bakkar, Beirut",
-      "original_price": 24000,
-      "current_price": 23000,
-      "drop_usd": 1000,
-      "drop_pct": 4.2,
-      "last_drop_date": "2026-03-07",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 24000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 23000,
-          "date": "2026-03-07"
         }
       ]
     },
@@ -7518,38 +7762,6 @@
       ]
     },
     {
-      "id": "116799878",
-      "title": "Hyundai Santa Fe 2014",
-      "url": "https://www.olx.com.lb/ad/hyundai-santa-fe-2014-ID116799878.html",
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "body_type": "SUV",
-      "year": 2014,
-      "mileage": 105000,
-      "transmission": "Steptronic",
-      "location": "Saida Downtown, Saida",
-      "original_price": 13000,
-      "current_price": 12500,
-      "drop_usd": 500,
-      "drop_pct": 3.8,
-      "last_drop_date": "2026-03-28",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 13000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 12800,
-          "date": "2026-03-11"
-        },
-        {
-          "price": 12500,
-          "date": "2026-03-28"
-        }
-      ]
-    },
-    {
       "id": "116808898",
       "title": "Mercedes GLE 43 coupe AMG 2018 black on black (clean carfax)",
       "url": "https://www.olx.com.lb/ad/mercedes-gle-43-coupe-amg-2018-black-on-black-clean-carfax-ID116808898.html",
@@ -8434,6 +8646,38 @@
         {
           "price": 55900,
           "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "id": "116766392",
+      "title": "Jetour T2 2025",
+      "url": "https://www.olx.com.lb/ad/jetour-t2-2025-ID116766392.html",
+      "make": "Jetour",
+      "model": "T2",
+      "body_type": "SUV",
+      "year": 2025,
+      "mileage": 0,
+      "transmission": "Automatic",
+      "location": "Ramlet el Bayda, Beirut",
+      "original_price": 43000,
+      "current_price": 41500,
+      "drop_usd": 1500,
+      "drop_pct": 3.5,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 43000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 45000,
+          "date": "2026-04-02"
+        },
+        {
+          "price": 41500,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -11054,6 +11298,38 @@
       ]
     },
     {
+      "id": "116742260",
+      "title": "Land Rover Range Rover Sport 2016",
+      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2016-ID116742260.html",
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "body_type": "SUV",
+      "year": 2016,
+      "mileage": 101000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 24500,
+      "current_price": 23900,
+      "drop_usd": 600,
+      "drop_pct": 2.4,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 24500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 24000,
+          "date": "2026-03-28"
+        },
+        {
+          "price": 23900,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116776480",
       "title": "Hyundai Accent 2015",
       "url": "https://www.olx.com.lb/ad/hyundai-accent-2015-ID116776480.html",
@@ -11302,6 +11578,38 @@
         {
           "price": 29500,
           "date": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "id": "116733567",
+      "title": "Kia Sportage model 2020 4wd super clean",
+      "url": "https://www.olx.com.lb/ad/kia-sportage-model-2020-4wd-super-clean-ID116733567.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "SUV",
+      "year": 2020,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Other in Zgharta, Zgharta",
+      "original_price": 17300,
+      "current_price": 16900,
+      "drop_usd": 400,
+      "drop_pct": 2.3,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 17300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 17000,
+          "date": "2026-03-29"
+        },
+        {
+          "price": 16900,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -11746,6 +12054,34 @@
       ]
     },
     {
+      "id": "116791033",
+      "title": "Mercedes-Benz A220/2019",
+      "url": "https://www.olx.com.lb/ad/mercedes-benz-a2202019-ID116791033.html",
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "body_type": "Sedan",
+      "year": 2019,
+      "mileage": 80000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 23500,
+      "current_price": 23000,
+      "drop_usd": 500,
+      "drop_pct": 2.1,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 23500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 23000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116763079",
       "title": "MERCEDES C300 COUPE 2017, lock AMG, super clean, 03/689315",
       "url": "https://www.olx.com.lb/ad/mercedes-c300-coupe-2017-lock-amg-super-clean-03689315-ID116763079.html",
@@ -11966,34 +12302,6 @@
         {
           "price": 24500,
           "date": "2026-03-12"
-        }
-      ]
-    },
-    {
-      "id": "116742260",
-      "title": "Land Rover Range Rover Sport 2016",
-      "url": "https://www.olx.com.lb/ad/land-rover-range-rover-sport-2016-ID116742260.html",
-      "make": "Land Rover",
-      "model": "Range Rover Sport",
-      "body_type": "SUV",
-      "year": 2016,
-      "mileage": 101000,
-      "transmission": "Steptronic",
-      "location": "Saida Downtown, Saida",
-      "original_price": 24500,
-      "current_price": 24000,
-      "drop_usd": 500,
-      "drop_pct": 2.0,
-      "last_drop_date": "2026-03-28",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 24500,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 24000,
-          "date": "2026-03-28"
         }
       ]
     },
@@ -12226,6 +12534,38 @@
       ]
     },
     {
+      "id": "116815230",
+      "title": "Jal El Dib",
+      "url": "https://www.olx.com.lb/ad/jal-el-dib-ID116815230.html",
+      "make": "Kia",
+      "model": "Sportage",
+      "body_type": "Estate",
+      "year": 2018,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Jal El Dib, Metn",
+      "original_price": 15900,
+      "current_price": 15600,
+      "drop_usd": 300,
+      "drop_pct": 1.9,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 16200,
+          "date": "2026-03-10"
+        },
+        {
+          "price": 15600,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116770526",
       "title": "سيتروين جامبى 2009",
       "url": "https://www.olx.com.lb/ad/سيتروين-جامبى-2009-ID116770526.html",
@@ -12306,6 +12646,34 @@
         {
           "price": 26500,
           "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116772466",
+      "title": "Nissan Rogue 2017 SL 4wd 73000 miles",
+      "url": "https://www.olx.com.lb/ad/nissan-rogue-2017-sl-4wd-73000-miles-ID116772466.html",
+      "make": "Nissan",
+      "model": "Rogue",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 0,
+      "transmission": "Steptronic",
+      "location": "Other in Zgharta, Zgharta",
+      "original_price": 16300,
+      "current_price": 16000,
+      "drop_usd": 300,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 16300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 16000,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -12646,34 +13014,6 @@
         {
           "price": 5800,
           "date": "2026-03-13"
-        }
-      ]
-    },
-    {
-      "id": "116733567",
-      "title": "Kia Sportage model 2020 4wd super clean",
-      "url": "https://www.olx.com.lb/ad/kia-sportage-model-2020-4wd-super-clean-ID116733567.html",
-      "make": "Kia",
-      "model": "Sportage",
-      "body_type": "SUV",
-      "year": 2020,
-      "mileage": 0,
-      "transmission": "Steptronic",
-      "location": "Other in Zgharta, Zgharta",
-      "original_price": 17300,
-      "current_price": 17000,
-      "drop_usd": 300,
-      "drop_pct": 1.7,
-      "last_drop_date": "2026-03-29",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 17300,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 17000,
-          "date": "2026-03-29"
         }
       ]
     },
@@ -13070,6 +13410,34 @@
         {
           "price": 33500,
           "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116716720",
+      "title": "Land Rover Vogue 2017 HSE",
+      "url": "https://www.olx.com.lb/ad/land-rover-vogue-2017-hse-ID116716720.html",
+      "make": "Land Rover",
+      "model": "Vogue",
+      "body_type": "SUV",
+      "year": 2017,
+      "mileage": 101000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 33000,
+      "current_price": 32500,
+      "drop_usd": 500,
+      "drop_pct": 1.5,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 33000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 32500,
+          "date": "2026-04-05"
         }
       ]
     },
@@ -13970,6 +14338,34 @@
       ]
     },
     {
+      "id": "116821363",
+      "title": "Toyota Land Cruiser 2022",
+      "url": "https://www.olx.com.lb/ad/toyota-land-cruiser-2022-ID116821363.html",
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "body_type": "SUV",
+      "year": 2022,
+      "mileage": 40000,
+      "transmission": "Automatic",
+      "location": "Mtayleb, Metn",
+      "original_price": 82999,
+      "current_price": 82000,
+      "drop_usd": 999,
+      "drop_pct": 1.2,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 82999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 82000,
+          "date": "2026-04-05"
+        }
+      ]
+    },
+    {
       "id": "116278410",
       "title": "Porsche Macan S with GTS Specs",
       "url": "https://www.olx.com.lb/ad/porsche-macan-s-with-gts-specs-ID116278410.html",
@@ -14306,6 +14702,34 @@
         {
           "price": 20500,
           "date": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "id": "116796062",
+      "title": "Honda Pilot 2009",
+      "url": "https://www.olx.com.lb/ad/honda-pilot-2009-ID116796062.html",
+      "make": "Honda",
+      "model": "Pilot",
+      "body_type": "SUV",
+      "year": 2009,
+      "mileage": 100000,
+      "transmission": "Steptronic",
+      "location": "Saida Downtown, Saida",
+      "original_price": 10000,
+      "current_price": 9900,
+      "drop_usd": 100,
+      "drop_pct": 1.0,
+      "last_drop_date": "2026-04-05",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 10000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 9900,
+          "date": "2026-04-05"
         }
       ]
     },
