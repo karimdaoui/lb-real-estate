@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-09T06:30:53.358742",
-  "total_tracked": 30046,
-  "total_drops": 362,
-  "avg_drop_pct": 8.9,
+  "generated_at": "2026-04-09T18:07:59.741035",
+  "total_tracked": 30326,
+  "total_drops": 375,
+  "avg_drop_pct": 8.8,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -1634,6 +1634,30 @@
       ]
     },
     {
+      "id": "116816900",
+      "title": "Apartment for sale in Zouk Mosbeh-Keserwan شقة للبيع في زوق مصبح",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-zouk-mosbeh-keserwan-شقة-للبيع-في-زوق-مصبح-ID116816900.html",
+      "type": "Apartment",
+      "location": "Zouk Mosbeh, Keserouan",
+      "sqm": 110,
+      "original_price": 150000,
+      "current_price": 130000,
+      "drop_usd": 20000,
+      "drop_pct": 13.3,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 130000,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
       "id": "116833549",
       "title": "lands for sale in Douma أرض للبيع في دوما",
       "url": "https://www.olx.com.lb/ad/lands-for-sale-in-douma-أرض-للبيع-في-دوما-ID116833549.html",
@@ -1830,6 +1854,54 @@
         {
           "price": 280000,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116815782",
+      "title": "Office for Sale in Saqyet El Janzir مكتب للبيع في ساقية الجنزير",
+      "url": "https://www.olx.com.lb/ad/office-for-sale-in-saqyet-el-janzir-مكتب-للبيع-في-ساقية-الجنزير-ID116815782.html",
+      "type": "Commercial",
+      "location": "sakiet al janzeer, Beirut",
+      "sqm": 90,
+      "original_price": 160000,
+      "current_price": 140000,
+      "drop_usd": 20000,
+      "drop_pct": 12.5,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 160000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
+      "id": "116815887",
+      "title": "PRIME LOCATION, ZONE 30/90, STUNNING SEA VIEW, Zalka/زلقا REF#PB133762",
+      "url": "https://www.olx.com.lb/ad/prime-location-zone-3090-stunning-sea-view-zalkaزلقا-refpb133762-ID116815887.html",
+      "type": "Apartment",
+      "location": "Zalka, Metn",
+      "sqm": 824,
+      "original_price": 400000,
+      "current_price": 350000,
+      "drop_usd": 50000,
+      "drop_pct": 12.5,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 400000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 350000,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -3606,6 +3678,30 @@
       ]
     },
     {
+      "id": "116607679",
+      "title": "120 sqm Apartment For Sale in Awkar عوكر with 30 sqm Terrace",
+      "url": "https://www.olx.com.lb/ad/120-sqm-apartment-for-sale-in-awkar-عوكر-with-30-sqm-terrace-ID116607679.html",
+      "type": "Apartment",
+      "location": "Awkar, Metn",
+      "sqm": 120,
+      "original_price": 125000,
+      "current_price": 115000,
+      "drop_usd": 10000,
+      "drop_pct": 8.0,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 125000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 115000,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
       "id": "116807714",
       "title": "Family share for sale at La Marina Club -Dbayeh",
       "url": "https://www.olx.com.lb/ad/family-share-for-sale-at-la-marina-club-dbayeh-ID116807714.html",
@@ -3870,6 +3966,30 @@
         {
           "price": 199000,
           "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116816537",
+      "title": "150SQM Apartment with open view in Fanar for sale",
+      "url": "https://www.olx.com.lb/ad/150sqm-apartment-with-open-view-in-fanar-for-sale-ID116816537.html",
+      "type": "Apartment",
+      "location": "Fanar, Metn",
+      "sqm": 150,
+      "original_price": 219000,
+      "current_price": 203000,
+      "drop_usd": 16000,
+      "drop_pct": 7.3,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 219000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 203000,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -4354,6 +4474,30 @@
         {
           "price": 140000,
           "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "116815937",
+      "title": "SHOP / OFFICE FOR SALE IN JBEIL KARTBOUN",
+      "url": "https://www.olx.com.lb/ad/shop-office-for-sale-in-jbeil-kartboun-ID116815937.html",
+      "type": "Commercial",
+      "location": "Kartaboun, Jbeil",
+      "sqm": 150,
+      "original_price": 150000,
+      "current_price": 140000,
+      "drop_usd": 10000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -5174,6 +5318,30 @@
       ]
     },
     {
+      "id": "116815161",
+      "title": "Directly on the highway , Sin El Fil / سن الفيل REF#AN133744",
+      "url": "https://www.olx.com.lb/ad/directly-on-the-highway-sin-el-fil-سن-الفيل-refan133744-ID116815161.html",
+      "type": "Apartment",
+      "location": "Sin El Fil, Metn",
+      "sqm": 55,
+      "original_price": 90000,
+      "current_price": 85000,
+      "drop_usd": 5000,
+      "drop_pct": 5.6,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 90000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 85000,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
       "id": "116828675",
       "title": "Chalet for sale in Kaakour, Metn Ref#BK121 القعقور شاليه  للبيع",
       "url": "https://www.olx.com.lb/ad/chalet-for-sale-in-kaakour-metn-refbk121-القعقور-شاليه-للبيع-ID116828675.html",
@@ -5638,6 +5806,30 @@
         {
           "price": 380000,
           "date": "2026-03-23"
+        }
+      ]
+    },
+    {
+      "id": "116810513",
+      "title": "محل تجاري للبيع على الطريق البحري مباشرة – من المالك",
+      "url": "https://www.olx.com.lb/ad/محل-تجاري-للبيع-على-الطريق-البحري-مباشرة-من-المالك-ID116810513.html",
+      "type": "Commercial",
+      "location": "Al Mina, Tripoli",
+      "sqm": 44,
+      "original_price": 100000,
+      "current_price": 95000,
+      "drop_usd": 5000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 100000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 95000,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -6578,6 +6770,30 @@
       ]
     },
     {
+      "id": "116809407",
+      "title": "147 SQM Shop Located In Jdaide",
+      "url": "https://www.olx.com.lb/ad/147-sqm-shop-located-in-jdaide-ID116809407.html",
+      "type": "Commercial",
+      "location": "Jdaide, Metn",
+      "sqm": 147,
+      "original_price": 400000,
+      "current_price": 385000,
+      "drop_usd": 15000,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 400000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 385000,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
       "id": "116816327",
       "title": "Chalet/Zouk Mosbeh/ذوق مصبح/SEA&MOUNTAIN VIEW ! REF#EW133794 !",
       "url": "https://www.olx.com.lb/ad/chaletzouk-mosbehذوق-مصبحseamountain-view-refew133794-ID116816327.html",
@@ -6966,6 +7182,30 @@
         {
           "price": 280000,
           "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116558617",
+      "title": "Sheileh 145m2 | Mint Condition | New Flat | Prime Area |  TO |",
+      "url": "https://www.olx.com.lb/ad/sheileh-145m2-mint-condition-new-flat-prime-area-to-ID116558617.html",
+      "type": "Apartment",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 145,
+      "original_price": 150000,
+      "current_price": 145000,
+      "drop_usd": 5000,
+      "drop_pct": 3.3,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 145000,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -7407,8 +7647,8 @@
     },
     {
       "id": "116451847",
-      "title": "GMK151Y - Land For Sale In Klayaat - أرض للبيع في القليعات",
-      "url": "https://www.olx.com.lb/ad/gmk151y-land-for-sale-in-klayaat-أرض-للبيع-في-القليعات-ID116451847.html",
+      "title": "GMK151YAJ - Land For Sale In Klayaat - أرض للبيع في القليعات",
+      "url": "https://www.olx.com.lb/ad/gmk151yaj-land-for-sale-in-klayaat-أرض-للبيع-في-القليعات-ID116451847.html",
       "type": "Land",
       "location": "Klayaat, Keserouan",
       "sqm": 990,
@@ -7766,6 +8006,30 @@
         {
           "price": 270000,
           "date": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "116814764",
+      "title": "Sea view , High end finishing , Office , Kaslik / كسليك REF#KI133693",
+      "url": "https://www.olx.com.lb/ad/sea-view-high-end-finishing-office-kaslik-كسليك-refki133693-ID116814764.html",
+      "type": "Commercial",
+      "location": "Kaslik, Keserouan",
+      "sqm": 130,
+      "original_price": 200000,
+      "current_price": 195000,
+      "drop_usd": 5000,
+      "drop_pct": 2.5,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 195000,
+          "date": "2026-04-09"
         }
       ]
     },
@@ -8494,6 +8758,34 @@
       ]
     },
     {
+      "id": "116815026",
+      "title": "Great deal/Fully renovated/office/Okaibe/عقيبه ! REF#CO133726 !",
+      "url": "https://www.olx.com.lb/ad/great-dealfully-renovatedofficeokaibeعقيبه-refco133726-ID116815026.html",
+      "type": "Commercial",
+      "location": "Okaibe, Keserouan",
+      "sqm": 85,
+      "original_price": 90000,
+      "current_price": 89000,
+      "drop_usd": 1000,
+      "drop_pct": 1.1,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 90000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 95000,
+          "date": "2026-03-11"
+        },
+        {
+          "price": 89000,
+          "date": "2026-04-09"
+        }
+      ]
+    },
+    {
       "id": "116778873",
       "title": "Development Land Residential&Commercial Use Aarbaniyeh Baabdat- CPSK07",
       "url": "https://www.olx.com.lb/ad/development-land-residentialcommercial-use-aarbaniyeh-baabdat-cpsk07-ID116778873.html",
@@ -8730,6 +9022,30 @@
         {
           "price": 179000,
           "date": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "116830860",
+      "title": "160m2 apartment+terrace 4sale in Mansourieh - شقة للبيع في المنصورية",
+      "url": "https://www.olx.com.lb/ad/160m2-apartmentterrace-4sale-in-mansourieh-شقة-للبيع-في-المنصورية-ID116830860.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 207,
+      "original_price": 180000,
+      "current_price": 179000,
+      "drop_usd": 1000,
+      "drop_pct": 0.6,
+      "last_drop_date": "2026-04-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 179000,
+          "date": "2026-04-09"
         }
       ]
     },
