@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-15T18:15:35.312458",
-  "total_tracked": 9101,
-  "total_drops": 857,
+  "generated_at": "2026-04-16T07:02:14.046543",
+  "total_tracked": 9122,
+  "total_drops": 859,
   "avg_drop_pct": 6.6,
   "biggest_drop_usd": 184000,
   "drops": [
@@ -5654,6 +5654,38 @@
         {
           "price": 12800,
           "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116786082",
+      "title": "Land Rover Evoque Prestige very clean",
+      "url": "https://www.olx.com.lb/ad/land-rover-evoque-prestige-very-clean-ID116786082.html",
+      "make": "Land Rover",
+      "model": "Evoque",
+      "body_type": "SUV",
+      "year": 2014,
+      "mileage": 90000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 13800,
+      "current_price": 12800,
+      "drop_usd": 1000,
+      "drop_pct": 7.2,
+      "last_drop_date": "2026-04-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 13300,
+          "date": "2026-03-28"
+        },
+        {
+          "price": 12800,
+          "date": "2026-04-16"
         }
       ]
     },
@@ -12059,7 +12091,7 @@
     },
     {
       "id": "116747335",
-      "title": "BMW X6 3.5 2015 !! COMPANY SOURCE!!",
+      "title": "BMW X6 3.5 2015 V6!! COMPANY SOURCE!!",
       "url": "https://www.olx.com.lb/ad/bmw-x6-35-2015-company-source-ID116747335.html",
       "make": "BMW",
       "model": "X6",
@@ -13418,6 +13450,34 @@
       ]
     },
     {
+      "id": "116783810",
+      "title": "Jeep Cherokee 2012",
+      "url": "https://www.olx.com.lb/ad/jeep-cherokee-2012-ID116783810.html",
+      "make": "Jeep",
+      "model": "Cherokee",
+      "body_type": "SUV",
+      "year": 2012,
+      "mileage": 88000,
+      "transmission": "Automatic",
+      "location": "Hlaliyeh, Saida",
+      "original_price": 13000,
+      "current_price": 12500,
+      "drop_usd": 500,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-04-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 13000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 12500,
+          "date": "2026-04-16"
+        }
+      ]
+    },
+    {
       "id": "116788244",
       "title": "Kia Sportage 2020 AWD 18000 Miles only",
       "url": "https://www.olx.com.lb/ad/kia-sportage-2020-awd-18000-miles-only-ID116788244.html",
@@ -14250,34 +14310,6 @@
         {
           "price": 16200,
           "date": "2026-04-02"
-        }
-      ]
-    },
-    {
-      "id": "116786082",
-      "title": "Land Rover Evoque Prestige very clean",
-      "url": "https://www.olx.com.lb/ad/land-rover-evoque-prestige-very-clean-ID116786082.html",
-      "make": "Land Rover",
-      "model": "Evoque",
-      "body_type": "SUV",
-      "year": 2014,
-      "mileage": 90000,
-      "transmission": "Automatic",
-      "location": "Sabtieh, Metn",
-      "original_price": 13800,
-      "current_price": 13300,
-      "drop_usd": 500,
-      "drop_pct": 3.6,
-      "last_drop_date": "2026-03-28",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 13800,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 13300,
-          "date": "2026-03-28"
         }
       ]
     },
@@ -17438,6 +17470,34 @@
         {
           "price": 35000,
           "date": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "id": "116597557",
+      "title": "Renault Duster 4WD 1 Owner Company service",
+      "url": "https://www.olx.com.lb/ad/renault-duster-4wd-1-owner-company-service-ID116597557.html",
+      "make": "Renault",
+      "model": "Duster",
+      "body_type": "SUV",
+      "year": 2018,
+      "mileage": 110000,
+      "transmission": "Automatic",
+      "location": "Sabtieh, Metn",
+      "original_price": 10800,
+      "current_price": 10500,
+      "drop_usd": 300,
+      "drop_pct": 2.8,
+      "last_drop_date": "2026-04-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 10800,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 10500,
+          "date": "2026-04-16"
         }
       ]
     },
