@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-19T17:46:23.810415",
-  "total_tracked": 33787,
-  "total_drops": 528,
-  "avg_drop_pct": 9.2,
+  "generated_at": "2026-04-20T07:27:00.499455",
+  "total_tracked": 34080,
+  "total_drops": 533,
+  "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -194,6 +194,30 @@
         {
           "price": 205000,
           "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116784142",
+      "title": "GMK163YA - Land For Sale In Kfour -  أرض للبيع في الكفور",
+      "url": "https://www.olx.com.lb/ad/gmk163ya-land-for-sale-in-kfour-أرض-للبيع-في-الكفور-ID116784142.html",
+      "type": "Land",
+      "location": "Kfour, Keserouan",
+      "sqm": 835,
+      "original_price": 110000,
+      "current_price": 67000,
+      "drop_usd": 43000,
+      "drop_pct": 39.1,
+      "last_drop_date": "2026-04-20",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 110000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 67000,
+          "date": "2026-04-20"
         }
       ]
     },
@@ -1194,6 +1218,30 @@
         {
           "price": 1100000,
           "date": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "id": "116493924",
+      "title": "RWB366EA - Villa for sale in Barbara Jbeil",
+      "url": "https://www.olx.com.lb/ad/rwb366ea-villa-for-sale-in-barbara-jbeil-ID116493924.html",
+      "type": "Villa",
+      "location": "Barbara, Jbeil",
+      "sqm": 1574,
+      "original_price": 1200000,
+      "current_price": 980000,
+      "drop_usd": 220000,
+      "drop_pct": 18.3,
+      "last_drop_date": "2026-04-20",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 980000,
+          "date": "2026-04-20"
         }
       ]
     },
@@ -3334,6 +3382,30 @@
         {
           "price": 2400000,
           "date": "2026-04-02"
+        }
+      ]
+    },
+    {
+      "id": "116836060",
+      "title": "shop/office for sale in sakiet al janzeer beirut محل/مكتب للبيع",
+      "url": "https://www.olx.com.lb/ad/shopoffice-for-sale-in-sakiet-al-janzeer-beirut-محلمكتب-للبيع-ID116836060.html",
+      "type": "Commercial",
+      "location": "sakiet al janzeer, Beirut",
+      "sqm": 140,
+      "original_price": 180000,
+      "current_price": 160000,
+      "drop_usd": 20000,
+      "drop_pct": 11.1,
+      "last_drop_date": "2026-04-20",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 160000,
+          "date": "2026-04-20"
         }
       ]
     },
@@ -9906,6 +9978,34 @@
       ]
     },
     {
+      "id": "116826575",
+      "title": "شقة فخمة ومفروشة مديار باطلالة بحرية • Luxurious Apartment in Medyar",
+      "url": "https://www.olx.com.lb/ad/من-اجمل-شقق-مديار-مفروشة-وجاهزة-للسكن-باطلالة-بحرية-ID116826575.html",
+      "type": "Apartment",
+      "location": "Medyar, Chouf",
+      "sqm": 180,
+      "original_price": 300000,
+      "current_price": 289000,
+      "drop_usd": 11000,
+      "drop_pct": 3.7,
+      "last_drop_date": "2026-04-20",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 300000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 299000,
+          "date": "2026-04-07"
+        },
+        {
+          "price": 289000,
+          "date": "2026-04-20"
+        }
+      ]
+    },
+    {
       "id": "116815290",
       "title": "apartments for sale in furn el chebbak baabdaشقق للبيع في فرن شباك",
       "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-furn-el-chebbak-baabda-شقق-للبيع-في-فرن-شبك-ID116815290.html",
@@ -10282,6 +10382,30 @@
         {
           "price": 280000,
           "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116847731",
+      "title": "Apartment for Sale in Baouchriye - شقة للبيع في البوشرية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-baouchriye-شقة-للبيع-في-البوشرية-ID116847731.html",
+      "type": "Apartment",
+      "location": "Baouchriye, Metn",
+      "sqm": 145,
+      "original_price": 174000,
+      "current_price": 168000,
+      "drop_usd": 6000,
+      "drop_pct": 3.4,
+      "last_drop_date": "2026-04-20",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 174000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 168000,
+          "date": "2026-04-20"
         }
       ]
     },
@@ -12150,6 +12274,30 @@
       ]
     },
     {
+      "id": "115473829",
+      "title": "New apartment for Sale in Elissar with a terrace",
+      "url": "https://www.olx.com.lb/ad/new-apartment-for-sale-in-elissar-with-a-terrace-ID115473829.html",
+      "type": "Apartment",
+      "location": "Elissar, Metn",
+      "sqm": 150,
+      "original_price": 285000,
+      "current_price": 280000,
+      "drop_usd": 5000,
+      "drop_pct": 1.8,
+      "last_drop_date": "2026-04-20",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 285000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 280000,
+          "date": "2026-04-20"
+        }
+      ]
+    },
+    {
       "id": "116827341",
       "title": "Jeita 120m2 | 40m2 Terrace | Well Maintained | Furnished | View |EL/TO",
       "url": "https://www.olx.com.lb/ad/jeita-120m2-40m2-terrace-well-maintained-furnished-view-elto-ID116827341.html",
@@ -12806,30 +12954,6 @@
         {
           "price": 229000,
           "date": "2026-04-17"
-        }
-      ]
-    },
-    {
-      "id": "116826575",
-      "title": "شقة فخمة ومفروشة مديار باطلالة بحرية • Luxurious Apartment in Medyar",
-      "url": "https://www.olx.com.lb/ad/من-اجمل-شقق-مديار-مفروشة-وجاهزة-للسكن-باطلالة-بحرية-ID116826575.html",
-      "type": "Apartment",
-      "location": "Medyar, Chouf",
-      "sqm": 180,
-      "original_price": 300000,
-      "current_price": 299000,
-      "drop_usd": 1000,
-      "drop_pct": 0.3,
-      "last_drop_date": "2026-04-07",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 300000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 299000,
-          "date": "2026-04-07"
         }
       ]
     },
