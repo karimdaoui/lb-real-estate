@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-24T07:14:06.206798",
-  "total_tracked": 35681,
-  "total_drops": 619,
+  "generated_at": "2026-04-24T17:57:09.664676",
+  "total_tracked": 35746,
+  "total_drops": 624,
   "avg_drop_pct": 9.5,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -1810,6 +1810,30 @@
       ]
     },
     {
+      "id": "116733444",
+      "title": "depot for sale in Achrafieh ‏ديبو للبيع في الأشرفية",
+      "url": "https://www.olx.com.lb/ad/depot-for-sale-in-achrafieh-ديبو-للبيع-في-الأشرفية-ID116733444.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 120,
+      "original_price": 180000,
+      "current_price": 150000,
+      "drop_usd": 30000,
+      "drop_pct": 16.7,
+      "last_drop_date": "2026-04-24",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 150000,
+          "date": "2026-04-24"
+        }
+      ]
+    },
+    {
       "id": "116829029",
       "title": "Shop For Sale in Jal El Dib 125000$ محل للبيع في جل الديب",
       "url": "https://www.olx.com.lb/ad/shop-for-sale-in-jal-el-dib-125000-محل-للبيع-في-جل-الديب-ID116829029.html",
@@ -1878,6 +1902,30 @@
         {
           "price": 125000,
           "date": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "id": "116856878",
+      "title": "Office for Sale in Prime Location Zahle Ref#MK115",
+      "url": "https://www.olx.com.lb/ad/office-for-sale-in-prime-location-zahle-refmk115-ID116856878.html",
+      "type": "Commercial",
+      "location": "Ksara, Zahle",
+      "sqm": 87,
+      "original_price": 60000,
+      "current_price": 50000,
+      "drop_usd": 10000,
+      "drop_pct": 16.7,
+      "last_drop_date": "2026-04-24",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 60000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 50000,
+          "date": "2026-04-24"
         }
       ]
     },
@@ -3666,6 +3714,30 @@
         {
           "price": 238000,
           "date": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "116748495",
+      "title": "MAIN ROAD OFFICE FOR SALE IN JDEIDEH PRIME, (JD-190) E. H",
+      "url": "https://www.olx.com.lb/ad/main-road-office-for-sale-in-jdeideh-prime-jd-190-e-h-ID116748495.html",
+      "type": "Commercial",
+      "location": "Jdaide, Metn",
+      "sqm": 60,
+      "original_price": 85000,
+      "current_price": 75000,
+      "drop_usd": 10000,
+      "drop_pct": 11.8,
+      "last_drop_date": "2026-04-24",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 85000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 75000,
+          "date": "2026-04-24"
         }
       ]
     },
@@ -5738,6 +5810,30 @@
       ]
     },
     {
+      "id": "116830500",
+      "title": "Prime Retail/SHOP/Verdun/فردان/underground parking/REF#MD134268 !",
+      "url": "https://www.olx.com.lb/ad/prime-retailshopverdunفردانunderground-parkingrefmd134268-ID116830500.html",
+      "type": "Commercial",
+      "location": "Verdun, Beirut",
+      "sqm": 105,
+      "original_price": 550000,
+      "current_price": 500000,
+      "drop_usd": 50000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-04-24",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 550000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 500000,
+          "date": "2026-04-24"
+        }
+      ]
+    },
+    {
       "id": "116810745",
       "title": "Land in Bsharri – Arez | 5,830 sqm | Zoning 20/40 REF#KM129072",
       "url": "https://www.olx.com.lb/ad/land-in-bsharri-arez-5830-sqm-zoning-2040-refkm129072-ID116810745.html",
@@ -7598,6 +7694,30 @@
         {
           "price": 260000,
           "date": "2026-04-14"
+        }
+      ]
+    },
+    {
+      "id": "116712461",
+      "title": "Few Steps From ABClBeautiful Apartment For Sale",
+      "url": "https://www.olx.com.lb/ad/few-steps-from-abclbeautiful-apartment-for-sale-ID116712461.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 305,
+      "original_price": 590000,
+      "current_price": 550000,
+      "drop_usd": 40000,
+      "drop_pct": 6.8,
+      "last_drop_date": "2026-04-24",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 590000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 550000,
+          "date": "2026-04-24"
         }
       ]
     },
