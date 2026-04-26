@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-25T17:47:40.098846",
-  "total_tracked": 36471,
-  "total_drops": 632,
-  "avg_drop_pct": 9.6,
+  "generated_at": "2026-04-26T07:07:06.030277",
+  "total_tracked": 36506,
+  "total_drops": 635,
+  "avg_drop_pct": 9.5,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -7594,6 +7594,30 @@
       ]
     },
     {
+      "id": "116621964",
+      "title": "SUPER CATCH ! APT IN TALLET EL KHAYAT PRIME (250SQ) 3 BEDS , (BT-676)",
+      "url": "https://www.olx.com.lb/ad/super-catch-apt-in-tallet-el-khayat-prime-250sq-3-beds-bt-676-ID116621964.html",
+      "type": "Apartment",
+      "location": "Tallet el Khayat, Beirut",
+      "sqm": 250,
+      "original_price": 420000,
+      "current_price": 390000,
+      "drop_usd": 30000,
+      "drop_pct": 7.1,
+      "last_drop_date": "2026-04-26",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 420000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 390000,
+          "date": "2026-04-26"
+        }
+      ]
+    },
+    {
       "id": "116844655",
       "title": "Apartment for sale in fanar شقة للبيع في الفنار",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-fanar-شقة-للبيع-في-الفنار-ID116844655.html",
@@ -9946,6 +9970,30 @@
         {
           "price": 445000,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116798561",
+      "title": "Fully Furnished Prime Location Apartment in Sabtieh, Metn.",
+      "url": "https://www.olx.com.lb/ad/fully-furnished-prime-location-apartment-in-sabtieh-metn-ID116798561.html",
+      "type": "Apartment",
+      "location": "Sabtieh, Metn",
+      "sqm": 110,
+      "original_price": 135000,
+      "current_price": 128000,
+      "drop_usd": 7000,
+      "drop_pct": 5.2,
+      "last_drop_date": "2026-04-26",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 135000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 128000,
+          "date": "2026-04-26"
         }
       ]
     },
@@ -14642,6 +14690,30 @@
         {
           "price": 118000,
           "date": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "id": "116855424",
+      "title": "Ultra Prime Location Apartment/Office in Zalka, Metn.",
+      "url": "https://www.olx.com.lb/ad/ultra-prime-location-apartmentoffice-in-zalka-metn-ID116855424.html",
+      "type": "Commercial",
+      "location": "Zalka, Metn",
+      "sqm": 94,
+      "original_price": 117000,
+      "current_price": 115000,
+      "drop_usd": 2000,
+      "drop_pct": 1.7,
+      "last_drop_date": "2026-04-26",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 117000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 115000,
+          "date": "2026-04-26"
         }
       ]
     },
