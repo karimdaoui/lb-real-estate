@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T18:27:01.332728",
-  "total_tracked": 37509,
-  "total_drops": 684,
+  "generated_at": "2026-04-29T07:33:48.350196",
+  "total_tracked": 37726,
+  "total_drops": 694,
   "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -390,6 +390,30 @@
         {
           "price": 110000,
           "date": "2026-04-09"
+        }
+      ]
+    },
+    {
+      "id": "116659175",
+      "title": "Warehouse for Sale in Beirut | Ready To Move | Hot Price | Easy Access",
+      "url": "https://www.olx.com.lb/ad/warehouse-for-sale-in-beirut-ready-to-move-hot-price-easy-access-ID116659175.html",
+      "type": "Villa",
+      "location": "Mar Elias, Beirut",
+      "sqm": 1143,
+      "original_price": 1257300,
+      "current_price": 860000,
+      "drop_usd": 397300,
+      "drop_pct": 31.6,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1257300,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 860000,
+          "date": "2026-04-29"
         }
       ]
     },
@@ -2830,6 +2854,30 @@
       ]
     },
     {
+      "id": "116722024",
+      "title": "sea view, Brand New, Spacious Duplex, Jbeil/جبيل  REF#RS130847",
+      "url": "https://www.olx.com.lb/ad/sea-view-brand-new-spacious-duplex-jbeilجبيل-refrs130847-ID116722024.html",
+      "type": "Duplex",
+      "location": "Jbeil Town, Jbeil",
+      "sqm": 260,
+      "original_price": 175000,
+      "current_price": 150000,
+      "drop_usd": 25000,
+      "drop_pct": 14.3,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 175000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 150000,
+          "date": "2026-04-29"
+        }
+      ]
+    },
+    {
       "id": "116192915",
       "title": "Villa for sale In Batroun Hot Deal فيلا للبيع في البترون",
       "url": "https://www.olx.com.lb/ad/villa-for-sale-in-batroun-فيلا-للبيع-في-البترون-ID116192915.html",
@@ -4734,6 +4782,30 @@
         {
           "price": 470000,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116376077",
+      "title": "Sheileh 290m2 | Duplex | Terrace | New | Calm Area | TO",
+      "url": "https://www.olx.com.lb/ad/sheileh-290m2-duplex-terrace-new-calm-area-to-ID116376077.html",
+      "type": "Duplex",
+      "location": "Sehayleh, Keserouan",
+      "sqm": 290,
+      "original_price": 190000,
+      "current_price": 170000,
+      "drop_usd": 20000,
+      "drop_pct": 10.5,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 190000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 170000,
+          "date": "2026-04-29"
         }
       ]
     },
@@ -6830,6 +6902,30 @@
       ]
     },
     {
+      "id": "116872193",
+      "title": "RWB633EA - Luxurious Chalet for sale in Anfeh Batroun",
+      "url": "https://www.olx.com.lb/ad/rwb633ea-luxurious-chalet-for-sale-in-anfeh-batroun-ID116872193.html",
+      "type": "Chalet",
+      "location": "Anfeh, Koura",
+      "sqm": 115,
+      "original_price": 600000,
+      "current_price": 550000,
+      "drop_usd": 50000,
+      "drop_pct": 8.3,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 600000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 550000,
+          "date": "2026-04-29"
+        }
+      ]
+    },
+    {
       "id": "116720624",
       "title": "Spacious Apartment for Sale in Jal el Dib – CPFY96",
       "url": "https://www.olx.com.lb/ad/spacious-apartment-for-sale-in-jal-el-dib-cpfy96-ID116720624.html",
@@ -6874,6 +6970,30 @@
         {
           "price": 395000,
           "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116846951",
+      "title": "Road and Electricity access ,Perfect Slope , Sawfar/ صوفر REF#OK134685",
+      "url": "https://www.olx.com.lb/ad/road-and-electricity-access-perfect-slope-sawfar-صوفر-refok134685-ID116846951.html",
+      "type": "Apartment",
+      "location": "Sawfar, Aley",
+      "sqm": 2650,
+      "original_price": 185000,
+      "current_price": 170000,
+      "drop_usd": 15000,
+      "drop_pct": 8.1,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 185000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 170000,
+          "date": "2026-04-29"
         }
       ]
     },
@@ -12122,6 +12242,30 @@
       ]
     },
     {
+      "id": "116697604",
+      "title": "Office for Sale in Achrafieh | Spacious | Core and Shell",
+      "url": "https://www.olx.com.lb/ad/office-for-sale-in-achrafieh-spacious-core-and-shell-ID116697604.html",
+      "type": "Commercial",
+      "location": "Achrafieh, Beirut",
+      "sqm": 200,
+      "original_price": 700000,
+      "current_price": 670000,
+      "drop_usd": 30000,
+      "drop_pct": 4.3,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 700000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 670000,
+          "date": "2026-04-29"
+        }
+      ]
+    },
+    {
       "id": "116425034",
       "title": "Decorated Duplex+Terrace for sale in Sehayleh - شقة للبيع في سهيلة",
       "url": "https://www.olx.com.lb/ad/decorated-duplexterrace-for-sale-in-sehayleh-شقة-للبيع-في-سهيلة-ID116425034.html",
@@ -12842,6 +12986,30 @@
       ]
     },
     {
+      "id": "116779054",
+      "title": "Hot Deal 3bed Apartment For Sale In Achrafiyeh- View",
+      "url": "https://www.olx.com.lb/ad/hot-deal-in-achrafieh-apartment-for-sale-high-floor-ID116779054.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 170,
+      "original_price": 410000,
+      "current_price": 395000,
+      "drop_usd": 15000,
+      "drop_pct": 3.7,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 410000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 395000,
+          "date": "2026-04-29"
+        }
+      ]
+    },
+    {
       "id": "116826575",
       "title": "شقة فخمة ومفروشة مديار باطلالة بحرية • Luxurious Apartment in Medyar",
       "url": "https://www.olx.com.lb/ad/من-اجمل-شقق-مديار-مفروشة-وجاهزة-للسكن-باطلالة-بحرية-ID116826575.html",
@@ -13322,6 +13490,30 @@
         {
           "price": 280000,
           "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "116729758",
+      "title": "Warehouse for sale in Achrafieh EA264 مستودع للبيع في الأشرفية",
+      "url": "https://www.olx.com.lb/ad/warehouse-for-sale-in-achrafieh-ea264-مستودع-للبيع-في-الأشرفية-ID116729758.html",
+      "type": "Villa",
+      "location": "Achrafieh, Beirut",
+      "sqm": 280,
+      "original_price": 145000,
+      "current_price": 140000,
+      "drop_usd": 5000,
+      "drop_pct": 3.4,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 145000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 140000,
+          "date": "2026-04-29"
         }
       ]
     },
@@ -14122,6 +14314,30 @@
         {
           "price": 825000,
           "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "116708249",
+      "title": "Full Seaview! One of a kind chalet for Sale in Tabarja",
+      "url": "https://www.olx.com.lb/ad/full-seaview-one-of-a-kind-chalet-for-sale-in-tabarja-ID116708249.html",
+      "type": "Chalet",
+      "location": "Tabarja, Keserouan",
+      "sqm": 95,
+      "original_price": 340000,
+      "current_price": 330000,
+      "drop_usd": 10000,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 340000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 330000,
+          "date": "2026-04-29"
         }
       ]
     },
@@ -16522,6 +16738,30 @@
         {
           "price": 179000,
           "date": "2026-04-09"
+        }
+      ]
+    },
+    {
+      "id": "116408741",
+      "title": "Apartment for sale in Achrafieh (2 bedrooms)",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-2-bedrooms-ID116408741.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 102,
+      "original_price": 331500,
+      "current_price": 330000,
+      "drop_usd": 1500,
+      "drop_pct": 0.5,
+      "last_drop_date": "2026-04-29",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 331500,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 330000,
+          "date": "2026-04-29"
         }
       ]
     },
