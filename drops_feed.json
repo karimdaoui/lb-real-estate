@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-29T18:21:17.359500",
-  "total_tracked": 37902,
-  "total_drops": 709,
+  "generated_at": "2026-04-30T07:37:27.175561",
+  "total_tracked": 38092,
+  "total_drops": 716,
   "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -342,6 +342,30 @@
         {
           "price": 55000,
           "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116837079",
+      "title": "Salon-Esthéticien business 4sale&Store 4rent in Hazmieh-Baabda - صالون",
+      "url": "https://www.olx.com.lb/ad/salon-esthéticien-business-4salestore-4rent-in-hazmieh-baabda-صالون-ID116837079.html",
+      "type": "Apartment",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 70,
+      "original_price": 15000,
+      "current_price": 10000,
+      "drop_usd": 5000,
+      "drop_pct": 33.3,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 15000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 10000,
+          "date": "2026-04-30"
         }
       ]
     },
@@ -2978,6 +3002,30 @@
       ]
     },
     {
+      "id": "116853147",
+      "title": "Land for Sale in Monsef 2400m² ONLY for 600K في المنصف",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-monsef-2400m2-only-for-700k-في-المنصف-ID116853147.html",
+      "type": "Land",
+      "location": "Monsef, Jbeil",
+      "sqm": 2400,
+      "original_price": 700000,
+      "current_price": 600000,
+      "drop_usd": 100000,
+      "drop_pct": 14.3,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 700000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 600000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116192915",
       "title": "Villa for sale In Batroun Hot Deal فيلا للبيع في البترون",
       "url": "https://www.olx.com.lb/ad/villa-for-sale-in-batroun-فيلا-للبيع-في-البترون-ID116192915.html",
@@ -4982,6 +5030,30 @@
       ]
     },
     {
+      "id": "116738173",
+      "title": "APARTMENT FOR SALE - ACHRAFIEH CARRE D'OR شقة للبيع الاشرفية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-achrafieh-carre-dor-شقة-للبيع-الاشرفية-ID116738173.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 85,
+      "original_price": 245000,
+      "current_price": 220000,
+      "drop_usd": 25000,
+      "drop_pct": 10.2,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 245000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 220000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116780907",
       "title": "Duplex shop, Seconds fromhighway,Nahr Ibrahim/نهر إبراهيم REF#YH132548",
       "url": "https://www.olx.com.lb/ad/duplex-shop-seconds-fromhighwaynahr-ibrahimنهر-إبراهيم-refyh132548-ID116780907.html",
@@ -6150,6 +6222,30 @@
         {
           "price": 180000,
           "date": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "id": "116743291",
+      "title": "HOT DEAL!!! Apartment for sale in Bchamoun Madares 250m2 for $200K",
+      "url": "https://www.olx.com.lb/ad/hot-deal-apartment-for-sale-in-bchamoun-madares-250m2-for-200k-ID116743291.html",
+      "type": "Apartment",
+      "location": "Bchamoun, Aley",
+      "sqm": 250,
+      "original_price": 220000,
+      "current_price": 200000,
+      "drop_usd": 20000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 220000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 200000,
+          "date": "2026-04-30"
         }
       ]
     },
@@ -13258,6 +13354,30 @@
       ]
     },
     {
+      "id": "116678531",
+      "title": "Adonis | 3 Master Bedrooms Apartment w/ Terraces | Prime Location",
+      "url": "https://www.olx.com.lb/ad/adonis-3-master-bedrooms-apartment-w-terraces-prime-location-ID116678531.html",
+      "type": "Apartment",
+      "location": "Adonis, Keserouan",
+      "sqm": 300,
+      "original_price": 139900,
+      "current_price": 134900,
+      "drop_usd": 5000,
+      "drop_pct": 3.6,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 139900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 134900,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116815290",
       "title": "apartments for sale in furn el chebbak baabdaشقق للبيع في فرن شباك",
       "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-furn-el-chebbak-baabda-شقق-للبيع-في-فرن-شبك-ID116815290.html",
@@ -15454,6 +15574,30 @@
       ]
     },
     {
+      "id": "116763161",
+      "title": "NEW BUILDING IN HAMRA PRIME (80SQ) 2 BEDROOMS , (HA-119)",
+      "url": "https://www.olx.com.lb/ad/new-building-in-hamra-prime-80sq-2-bedrooms-ha-119-ID116763161.html",
+      "type": "Building",
+      "location": "Hamra, Beirut",
+      "sqm": 80,
+      "original_price": 369000,
+      "current_price": 360000,
+      "drop_usd": 9000,
+      "drop_pct": 2.4,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 369000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 360000,
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
       "id": "116728224",
       "title": "Land, Open Mountain View -Prime Location BAABDAT BREF#KR130908",
       "url": "https://www.olx.com.lb/ad/land-open-mountain-view-prime-location-baabdat-brefkr130908-ID116728224.html",
@@ -16054,6 +16198,30 @@
         {
           "price": 245000,
           "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "116599188",
+      "title": "Apartment for Sale in Bhorsaf شقةً للبيع في بحرصاف",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-bhorsaf-شقة-للبيع-في-بحرصاف-ID116599188.html",
+      "type": "Apartment",
+      "location": "Baabdat, Metn",
+      "sqm": 130,
+      "original_price": 148000,
+      "current_price": 145000,
+      "drop_usd": 3000,
+      "drop_pct": 2.0,
+      "last_drop_date": "2026-04-30",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 148000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 145000,
+          "date": "2026-04-30"
         }
       ]
     },
