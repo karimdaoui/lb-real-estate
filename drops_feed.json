@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T07:27:27.211464",
-  "total_tracked": 38729,
-  "total_drops": 769,
-  "avg_drop_pct": 9.4,
+  "generated_at": "2026-05-03T17:58:26.044640",
+  "total_tracked": 38790,
+  "total_drops": 776,
+  "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -1222,6 +1222,30 @@
         {
           "price": 50000,
           "date": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "id": "115006790",
+      "title": "Villa in Beit Chabeb, Metn with Breathtaking Sea and Mountain View",
+      "url": "https://www.olx.com.lb/ad/villa-in-beit-chabeb-metn-with-breathtaking-sea-and-mountain-view-ID115006790.html",
+      "type": "Villa",
+      "location": "Beit Chabeb, Metn",
+      "sqm": 615,
+      "original_price": 975000,
+      "current_price": 750000,
+      "drop_usd": 225000,
+      "drop_pct": 23.1,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 975000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 750000,
+          "date": "2026-05-03"
         }
       ]
     },
@@ -6250,6 +6274,30 @@
       ]
     },
     {
+      "id": "116723182",
+      "title": "Apartment for sale in Broumana شقة للبيع في برمانا",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-broumana-شقة-للبيع-في-برمانا-ID116723182.html",
+      "type": "Apartment",
+      "location": "Broummana, Metn",
+      "sqm": 190,
+      "original_price": 310000,
+      "current_price": 280000,
+      "drop_usd": 30000,
+      "drop_pct": 9.7,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 310000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 280000,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116852275",
       "title": "Office for Sale",
       "url": "https://www.olx.com.lb/ad/office-for-sale-ID116852275.html",
@@ -10310,6 +10358,30 @@
       ]
     },
     {
+      "id": "116426833",
+      "title": "Apartment For Sale In Achrafieh - شقة للبيع في الأشرفية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID116426833.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 180,
+      "original_price": 550000,
+      "current_price": 515000,
+      "drop_usd": 35000,
+      "drop_pct": 6.4,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 550000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 515000,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116690992",
       "title": "Apartment For SALE In Mar Roukoz شقة للبيع #PH",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-mar-roukoz-شقة-للبيع-ph-ID116690992.html",
@@ -12722,6 +12794,30 @@
         {
           "price": 295000,
           "date": "2026-03-29"
+        }
+      ]
+    },
+    {
+      "id": "116513303",
+      "title": "Tilal el Assal - Duplex - Garden - 3 Bedrooms",
+      "url": "https://www.olx.com.lb/ad/tilal-el-assal-duplex-garden-3-bedrooms-ID116513303.html",
+      "type": "Duplex",
+      "location": "Kfardebian, Keserouan",
+      "sqm": 183,
+      "original_price": 399000,
+      "current_price": 380000,
+      "drop_usd": 19000,
+      "drop_pct": 4.8,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 399000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 380000,
+          "date": "2026-05-03"
         }
       ]
     },
@@ -16126,6 +16222,30 @@
       ]
     },
     {
+      "id": "116866910",
+      "title": "RAO26-5046 Office 90 m² for Sale in Sin El Fil",
+      "url": "https://www.olx.com.lb/ad/rao26-5046-office-90-m2-for-sale-in-sin-el-fil-ID116866910.html",
+      "type": "Commercial",
+      "location": "Sin El Fil, Metn",
+      "sqm": 90,
+      "original_price": 175000,
+      "current_price": 170000,
+      "drop_usd": 5000,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 175000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 170000,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116706738",
       "title": "Industrial and commercial space in the Nahr El Mot--REF#EH130401 !",
       "url": "https://www.olx.com.lb/ad/industrial-and-commercial-space-in-the-nahr-el-mot-refeh130401-ID116706738.html",
@@ -17650,6 +17770,30 @@
       ]
     },
     {
+      "id": "116865611",
+      "title": "Chalet Triplex for sale in Kfardebian - Tilal Al Assal شاليه تربلكس",
+      "url": "https://www.olx.com.lb/ad/chalet-triplex-for-sale-in-kfardebian-tilal-al-assal-شاليه-تربلكس-ID116865611.html",
+      "type": "Chalet",
+      "location": "Kfardebian, Keserouan",
+      "sqm": 160,
+      "original_price": 265000,
+      "current_price": 260000,
+      "drop_usd": 5000,
+      "drop_pct": 1.9,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 265000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 260000,
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
       "id": "116050115",
       "title": "NEW TOWER IN BLISS PRIME (180SQ) 2 MASTER BEDS , (HA-227)",
       "url": "https://www.olx.com.lb/ad/new-tower-in-bliss-prime-180sq-2-master-beds-ha-227-ID116050115.html",
@@ -17794,6 +17938,30 @@
         {
           "price": 137500,
           "date": "2026-05-02"
+        }
+      ]
+    },
+    {
+      "id": "116166266",
+      "title": "150 sqm Apartment For Sale in Douar دوّار with 50 sqm Terrace",
+      "url": "https://www.olx.com.lb/ad/150-sqm-apartment-for-sale-in-douar-دوار-with-50-sqm-terrace-ID116166266.html",
+      "type": "Apartment",
+      "location": "Douar, Metn",
+      "sqm": 150,
+      "original_price": 120000,
+      "current_price": 118000,
+      "drop_usd": 2000,
+      "drop_pct": 1.7,
+      "last_drop_date": "2026-05-03",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 120000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 118000,
+          "date": "2026-05-03"
         }
       ]
     },
