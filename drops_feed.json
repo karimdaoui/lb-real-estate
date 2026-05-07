@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T18:27:06.486363",
-  "total_tracked": 39824,
-  "total_drops": 838,
-  "avg_drop_pct": 9.3,
+  "generated_at": "2026-05-07T07:51:40.771521",
+  "total_tracked": 39972,
+  "total_drops": 848,
+  "avg_drop_pct": 9.2,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -4086,6 +4086,30 @@
       ]
     },
     {
+      "id": "116811541",
+      "title": "on the main highway, undermarket price, Bouar/بوار REF#ST133607",
+      "url": "https://www.olx.com.lb/ad/on-the-main-highway-undermarket-price-bouarبوار-refst133607-ID116811541.html",
+      "type": "Apartment",
+      "location": "Bouar, Keserouan",
+      "sqm": 1200,
+      "original_price": 750000,
+      "current_price": 650000,
+      "drop_usd": 100000,
+      "drop_pct": 13.3,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 750000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 650000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
       "id": "116816900",
       "title": "Apartment for sale in Zouk Mosbeh-Keserwan شقة للبيع في زوق مصبح",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-zouk-mosbeh-keserwan-شقة-للبيع-في-زوق-مصبح-ID116816900.html",
@@ -4818,6 +4842,30 @@
         {
           "price": 255000,
           "date": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "id": "116878417",
+      "title": "Apartments For Sale in Douar/ شقق للبيع في الدوار",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-douar-شقق-للبيع-في-الدوار-ID116878417.html",
+      "type": "Apartment",
+      "location": "Douar, Metn",
+      "sqm": 132,
+      "original_price": 165000,
+      "current_price": 145000,
+      "drop_usd": 20000,
+      "drop_pct": 12.1,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 165000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 145000,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -5838,6 +5886,30 @@
         {
           "price": 139000,
           "date": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "id": "116693853",
+      "title": "Brand new, high end, metn, jal el dib/جل الديب  REF#BS129822",
+      "url": "https://www.olx.com.lb/ad/brand-new-high-end-metn-jal-el-dibجل-الديب-refbs129822-ID116693853.html",
+      "type": "Apartment",
+      "location": "Jal El Dib, Metn",
+      "sqm": 156,
+      "original_price": 290000,
+      "current_price": 260000,
+      "drop_usd": 30000,
+      "drop_pct": 10.3,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 290000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 260000,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -6926,6 +6998,30 @@
         {
           "price": 380000,
           "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "id": "116837081",
+      "title": "Luxury Duplex for Sale in  El Biyada  دوبلكس فاخر للبيع في البياضة",
+      "url": "https://www.olx.com.lb/ad/luxury-duplex-for-sale-in-el-biyada-دوبلكس-فاخر-للبيع-في-البياضة-ID116837081.html",
+      "type": "Duplex",
+      "location": "Biyada, Metn",
+      "sqm": 550,
+      "original_price": 1100000,
+      "current_price": 995000,
+      "drop_usd": 105000,
+      "drop_pct": 9.5,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1100000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 995000,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -8245,7 +8341,7 @@
       "location": "Ballouneh, Keserouan",
       "sqm": 205,
       "original_price": 180000,
-      "current_price": 165000,
+      "current_price": 175000,
       "drop_usd": 15000,
       "drop_pct": 8.3,
       "last_drop_date": "2026-04-10",
@@ -8258,6 +8354,10 @@
         {
           "price": 165000,
           "date": "2026-04-10"
+        },
+        {
+          "price": 175000,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -10879,8 +10979,8 @@
     },
     {
       "id": "116860887",
-      "title": "Furnished Apartment For Sale In Rabwe شقة للبيع في الربوة",
-      "url": "https://www.olx.com.lb/ad/furnished-apartment-for-sale-in-rabwe-شقة-للبيع-في-الربوة-ID116860887.html",
+      "title": "NO ESKEN *Furnished Apartment For Sale In Rabwe شقة للبيع في الربوة",
+      "url": "https://www.olx.com.lb/ad/no-esken-furnished-apartment-for-sale-in-rabwe-شقة-للبيع-في-الربوة-ID116860887.html",
       "type": "Apartment",
       "location": "Rabweh, Metn",
       "sqm": 115,
@@ -14842,6 +14942,30 @@
       ]
     },
     {
+      "id": "116830235",
+      "title": "HIGH-END | OPEN VIEW | DUPLEX IN ZALKA, (ZL-200) SJ",
+      "url": "https://www.olx.com.lb/ad/high-end-open-view-duplex-in-zalka-zl-200-sj-ID116830235.html",
+      "type": "Duplex",
+      "location": "Zalka, Metn",
+      "sqm": 210,
+      "original_price": 260000,
+      "current_price": 249000,
+      "drop_usd": 11000,
+      "drop_pct": 4.2,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 260000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 249000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
       "id": "116860694",
       "title": "2 parking, elevator, balconies, Horsh Tabet/حرش تابت REF#LT135150",
       "url": "https://www.olx.com.lb/ad/2-parking-elevator-balconies-horsh-tabetحرش-تابت-reflt135150-ID116860694.html",
@@ -17378,6 +17502,30 @@
       ]
     },
     {
+      "id": "116818184",
+      "title": "FULLY FURNISHED | 2 BEDS | BSALIM PRIME | MODERN, (BS-204) R. N",
+      "url": "https://www.olx.com.lb/ad/fully-furnished-2-beds-bsalim-prime-modern-bs-204-r-n-ID116818184.html",
+      "type": "Apartment",
+      "location": "Bsalim, Metn",
+      "sqm": 110,
+      "original_price": 170000,
+      "current_price": 165000,
+      "drop_usd": 5000,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 170000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 165000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
       "id": "116771636",
       "title": "UNDER CONSTRUCTION 3 YEARS PAYMENT PLAN IN ZALKA PRIME, (ZL-196) E. H",
       "url": "https://www.olx.com.lb/ad/under-construction-3-years-payment-plan-in-zalka-prime-zl-196-e-h-ID116771636.html",
@@ -17614,6 +17762,30 @@
         {
           "price": 350000,
           "date": "2026-04-28"
+        }
+      ]
+    },
+    {
+      "id": "116769107",
+      "title": "130 SQM Apartment for SALE in Jal El Dib!",
+      "url": "https://www.olx.com.lb/ad/130-sqm-apartment-for-sale-in-jal-el-dib-ID116769107.html",
+      "type": "Apartment",
+      "location": "Jal El Dib, Metn",
+      "sqm": 130,
+      "original_price": 180000,
+      "current_price": 175000,
+      "drop_usd": 5000,
+      "drop_pct": 2.8,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 180000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 175000,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -18290,6 +18462,30 @@
         {
           "price": 83000,
           "date": "2026-04-28"
+        }
+      ]
+    },
+    {
+      "id": "116796416",
+      "title": "Terrace, sea view, prime area, keserwan, Chnaniir/شننعير REF#BJ133104",
+      "url": "https://www.olx.com.lb/ad/terrace-sea-view-prime-area-keserwan-chnaniirشننعير-refbj133104-ID116796416.html",
+      "type": "Apartment",
+      "location": "Chnaniir, Keserouan",
+      "sqm": 240,
+      "original_price": 215000,
+      "current_price": 210000,
+      "drop_usd": 5000,
+      "drop_pct": 2.3,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 215000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 210000,
+          "date": "2026-05-07"
         }
       ]
     },
@@ -19486,6 +19682,30 @@
       ]
     },
     {
+      "id": "116447739",
+      "title": "Apartment for sale in Naccache |  شقة للبيع النقاش for investment only",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-naccache-شقة-للبيع-النقاش-for-investment-only-ID116447739.html",
+      "type": "Apartment",
+      "location": "Naccache, Metn",
+      "sqm": 100,
+      "original_price": 125000,
+      "current_price": 123000,
+      "drop_usd": 2000,
+      "drop_pct": 1.6,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 125000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 123000,
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    {
       "id": "116761820",
       "title": "Apartment for sale in Sahel Alma شقة للبيع في ساحل علما",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sahel-alma-شقة-للبيع-في-ساحل-علما-ID116761820.html",
@@ -19770,6 +19990,30 @@
         {
           "price": 158000,
           "date": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "116418142",
+      "title": "HOT DEAL! LUXURIOUS Apartment For Sale In Achrafieh.",
+      "url": "https://www.olx.com.lb/ad/hot-deal-luxurious-apartment-for-sale-in-achrafieh-ID116418142.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 92,
+      "original_price": 410000,
+      "current_price": 405000,
+      "drop_usd": 5000,
+      "drop_pct": 1.2,
+      "last_drop_date": "2026-05-07",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 410000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 405000,
+          "date": "2026-05-07"
         }
       ]
     },
