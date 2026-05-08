@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-08T07:01:46.436423",
-  "total_tracked": 40272,
-  "total_drops": 874,
+  "generated_at": "2026-05-08T18:19:11.255184",
+  "total_tracked": 40474,
+  "total_drops": 886,
   "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -1962,6 +1962,30 @@
       ]
     },
     {
+      "id": "116841077",
+      "title": "Land For SALE In Baskinta أرض للبيع #GS",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-baskinta-أرض-للبيع-gs-ID116841077.html",
+      "type": "Land",
+      "location": "Baskinta, Metn",
+      "sqm": 2000,
+      "original_price": 499999,
+      "current_price": 399999,
+      "drop_usd": 100000,
+      "drop_pct": 20.0,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 499999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 399999,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
       "id": "116844543",
       "title": "lands for sale in ijd-ebrin Alkoura أرض للبيع في إجدعبرين الكورة",
       "url": "https://www.olx.com.lb/ad/lands-for-sale-in-ijd-ebrin-alkoura-أرض-للبيع-في-إجدعبرين-الكورة-ID116844543.html",
@@ -2038,6 +2062,38 @@
         {
           "price": 360000,
           "date": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "116816975",
+      "title": "Prime Investment Opportunity, great deal, balamand/بلمند REF#KM133815",
+      "url": "https://www.olx.com.lb/ad/prime-investment-opportunity-great-deal-balamandبلمند-refkm133815-ID116816975.html",
+      "type": "Apartment",
+      "location": "Other in Koura, Koura",
+      "sqm": 4304,
+      "original_price": 774000,
+      "current_price": 620000,
+      "drop_usd": 154000,
+      "drop_pct": 19.9,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 774000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 709000,
+          "date": "2026-04-02"
+        },
+        {
+          "price": 690000,
+          "date": "2026-04-22"
+        },
+        {
+          "price": 620000,
+          "date": "2026-05-08"
         }
       ]
     },
@@ -2262,6 +2318,30 @@
         {
           "price": 450000,
           "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116642943",
+      "title": "Duplex For SALE In Fidar دوبلكس للبيع #ES",
+      "url": "https://www.olx.com.lb/ad/duplex-for-sale-in-fidar-دوبلكس-للبيع-es-ID116642943.html",
+      "type": "Duplex",
+      "location": "Fidar, Jbeil",
+      "sqm": 300,
+      "original_price": 164999,
+      "current_price": 134999,
+      "drop_usd": 30000,
+      "drop_pct": 18.2,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 164999,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 134999,
+          "date": "2026-05-08"
         }
       ]
     },
@@ -2990,6 +3070,30 @@
         {
           "price": 465000,
           "date": "2026-05-01"
+        }
+      ]
+    },
+    {
+      "id": "116837470",
+      "title": "House for sale with Land",
+      "url": "https://www.olx.com.lb/ad/house-for-sale-with-land-ID116837470.html",
+      "type": "Villa",
+      "location": "Zouk Mikael, Keserouan",
+      "sqm": 235,
+      "original_price": 1400000,
+      "current_price": 1175000,
+      "drop_usd": 225000,
+      "drop_pct": 16.1,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1400000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1175000,
+          "date": "2026-05-08"
         }
       ]
     },
@@ -4450,6 +4554,30 @@
       ]
     },
     {
+      "id": "116404174",
+      "title": "Land For Sale In Behdaidat Jbeil jbe0080dpst",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-behdaidat-jbeil-jbe0080dpst-ID116404174.html",
+      "type": "Land",
+      "location": "Eddeh, Jbeil",
+      "sqm": 1000,
+      "original_price": 160000,
+      "current_price": 139000,
+      "drop_usd": 21000,
+      "drop_pct": 13.1,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 160000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 139000,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
       "id": "116803370",
       "title": "2 shops, on the main road, parking, Ghadir/غدير REF#ST133328",
       "url": "https://www.olx.com.lb/ad/2-shops-on-the-main-road-parking-ghadirغدير-refst133328-ID116803370.html",
@@ -5762,6 +5890,30 @@
       ]
     },
     {
+      "id": "116837823",
+      "title": "elevator, 2 parking, Sin El Fil, Mirna Chalouhi/سن الفيل REF#EH134451",
+      "url": "https://www.olx.com.lb/ad/elevator-2-parking-sin-el-fil-mirna-chalouhiسن-الفيل-refeh134451-ID116837823.html",
+      "type": "Apartment",
+      "location": "Sin El Fil, Metn",
+      "sqm": 165,
+      "original_price": 225000,
+      "current_price": 200000,
+      "drop_usd": 25000,
+      "drop_pct": 11.1,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 225000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 200000,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
       "id": "115681822",
       "title": "RWB248MT - Duplex Apartment for sale in Jbeil شقة للبيع في جبيل",
       "url": "https://www.olx.com.lb/ad/rwb248mt-duplex-apartment-for-sale-in-jbeil-شقة-للبيع-في-جبيل-ID115681822.html",
@@ -5806,34 +5958,6 @@
         {
           "price": 65000,
           "date": "2026-04-13"
-        }
-      ]
-    },
-    {
-      "id": "116816975",
-      "title": "Prime Investment Opportunity, great deal, balamand/بلمند REF#KM133815",
-      "url": "https://www.olx.com.lb/ad/prime-investment-opportunity-great-deal-balamandبلمند-refkm133815-ID116816975.html",
-      "type": "Apartment",
-      "location": "Other in Koura, Koura",
-      "sqm": 4304,
-      "original_price": 774000,
-      "current_price": 690000,
-      "drop_usd": 84000,
-      "drop_pct": 10.9,
-      "last_drop_date": "2026-04-22",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 774000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 709000,
-          "date": "2026-04-02"
-        },
-        {
-          "price": 690000,
-          "date": "2026-04-22"
         }
       ]
     },
@@ -6554,6 +6678,30 @@
         {
           "price": 1350000,
           "date": "2026-04-16"
+        }
+      ]
+    },
+    {
+      "id": "116829075",
+      "title": "High Foot Traffic , Commercial  , Bourj hamoud/برج حمود REF#EH134189",
+      "url": "https://www.olx.com.lb/ad/high-foot-traffic-commercial-bourj-hamoudبرج-حمود-refeh134189-ID116829075.html",
+      "type": "Commercial",
+      "location": "Bourj Hammoud, Metn",
+      "sqm": 23,
+      "original_price": 50000,
+      "current_price": 45000,
+      "drop_usd": 5000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 50000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 45000,
+          "date": "2026-05-08"
         }
       ]
     },
@@ -12702,6 +12850,30 @@
       ]
     },
     {
+      "id": "116781604",
+      "title": "Apartment in Hazmieh Ref#AY103 شقة في الحازمية",
+      "url": "https://www.olx.com.lb/ad/apartment-in-hazmieh-refay103-شقة-في-الحازمية-ID116781604.html",
+      "type": "Apartment",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 275,
+      "original_price": 350000,
+      "current_price": 330000,
+      "drop_usd": 20000,
+      "drop_pct": 5.7,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 350000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 330000,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
       "id": "116845618",
       "title": "Cabine Rimal for sale Zouk Mosbeh hot deal",
       "url": "https://www.olx.com.lb/ad/cabine-for-sale-zouk-mosbeh-hot-deal-ID116845618.html",
@@ -12746,6 +12918,30 @@
         {
           "price": 250000,
           "date": "2026-05-06"
+        }
+      ]
+    },
+    {
+      "id": "116862060",
+      "title": "Heating system/FURNISHED/Parking/ZANDOUKA/زندوقة/ REF#GA135226 !",
+      "url": "https://www.olx.com.lb/ad/heating-systemfurnishedparkingzandoukaزندوقة-refga135226-ID116862060.html",
+      "type": "Apartment",
+      "location": "Zandouka, Metn",
+      "sqm": 130,
+      "original_price": 175000,
+      "current_price": 165000,
+      "drop_usd": 10000,
+      "drop_pct": 5.7,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 175000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 165000,
+          "date": "2026-05-08"
         }
       ]
     },
@@ -13722,6 +13918,30 @@
       ]
     },
     {
+      "id": "116845939",
+      "title": "Land for sale in kfar Nabrakh عقار للبيع في كفر نبرخ الشوف",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-kfar-nabrakh-عقار-للبيع-في-كفر-نبرخ-الشوف-ID116845939.html",
+      "type": "Land",
+      "location": "Other in Chouf, Chouf",
+      "sqm": 3300,
+      "original_price": 191400,
+      "current_price": 181500,
+      "drop_usd": 9900,
+      "drop_pct": 5.2,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 191400,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 181500,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
       "id": "116132896",
       "title": "HOLIDAY BEACH | OPEN SEA VIEW | FURNISHED | HIGH FLOOR",
       "url": "https://www.olx.com.lb/ad/holiday-beach-open-sea-view-high-floor-ID116132896.html",
@@ -13970,6 +14190,30 @@
         {
           "price": 285000,
           "date": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "116713443",
+      "title": "Shop for sale in Dekwaneh  محل للبيع في الدكوانة",
+      "url": "https://www.olx.com.lb/ad/shop-for-sale-in-dekwaneh-محل-للبيع-في-الدكوانة-ID116713443.html",
+      "type": "Commercial",
+      "location": "Dekwaneh, Metn",
+      "sqm": 200,
+      "original_price": 400000,
+      "current_price": 380000,
+      "drop_usd": 20000,
+      "drop_pct": 5.0,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 400000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 380000,
+          "date": "2026-05-08"
         }
       ]
     },
@@ -17250,6 +17494,30 @@
       ]
     },
     {
+      "id": "116840705",
+      "title": "apartments for sale in sakiet al janzeer Beirut شقق للبيع في بيروت",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-sakiet-al-janzeer-beirut-شقق-للبيع-في-بيروت-ID116840705.html",
+      "type": "Apartment",
+      "location": "sakiet al janzeer, Beirut",
+      "sqm": 200,
+      "original_price": 300000,
+      "current_price": 290000,
+      "drop_usd": 10000,
+      "drop_pct": 3.3,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 300000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 290000,
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
       "id": "116853461",
       "title": "RWK637CA - Exclusive! Apartment for Sale in Sahel Alma",
       "url": "https://www.olx.com.lb/ad/rwk637ca-exclusive-apartment-for-sale-in-sahel-alma-ID116853461.html",
@@ -17529,7 +17797,7 @@
       "location": "Achrafieh, Beirut",
       "sqm": 120,
       "original_price": 320000,
-      "current_price": 310000,
+      "current_price": 320000,
       "drop_usd": 10000,
       "drop_pct": 3.1,
       "last_drop_date": "2026-03-05",
@@ -17542,6 +17810,10 @@
         {
           "price": 310000,
           "date": "2026-03-05"
+        },
+        {
+          "price": 320000,
+          "date": "2026-05-08"
         }
       ]
     },
@@ -18190,6 +18462,30 @@
         {
           "price": 170000,
           "date": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "116784833",
+      "title": "Apartment in Mansourieh Ref#AY104 شقة في المنصورية",
+      "url": "https://www.olx.com.lb/ad/apartment-in-mansourieh-refay104-شقة-في-المنصورية-ID116784833.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 230,
+      "original_price": 175000,
+      "current_price": 170000,
+      "drop_usd": 5000,
+      "drop_pct": 2.9,
+      "last_drop_date": "2026-05-08",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 175000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 170000,
+          "date": "2026-05-08"
         }
       ]
     },
