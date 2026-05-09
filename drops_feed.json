@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-08T18:19:11.255184",
-  "total_tracked": 40474,
-  "total_drops": 886,
+  "generated_at": "2026-05-09T07:18:04.373407",
+  "total_tracked": 40581,
+  "total_drops": 894,
   "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -3266,34 +3266,6 @@
       ]
     },
     {
-      "id": "116627619",
-      "title": "Prime Location Land In Bhamdoun For Sale / أرض في بحمدون للبيع",
-      "url": "https://www.olx.com.lb/ad/prime-location-land-in-bhamdoun-for-sale-أرض-في-بحمدون-للبيع-ID116627619.html",
-      "type": "Land",
-      "location": "Bhamdoun, Aley",
-      "sqm": 3000,
-      "original_price": 260000,
-      "current_price": 260000,
-      "drop_usd": 40000,
-      "drop_pct": 15.4,
-      "last_drop_date": "2026-04-29",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 260000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 220000,
-          "date": "2026-04-29"
-        },
-        {
-          "price": 260000,
-          "date": "2026-05-01"
-        }
-      ]
-    },
-    {
       "id": "116848447",
       "title": "Apartment for Sale in Zoukak al Blat شقة للبيع في زقاق البلاط",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-zoukak-al-blat-شقة-للبيع-في-زقاق-البلاط-ID116848447.html",
@@ -5146,6 +5118,30 @@
       ]
     },
     {
+      "id": "116597860",
+      "title": "HOT DEAL land for sale in Bhamdoun autostrade أرض للبيع بحمدون",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-bhamdoun-baalchmey-2500m2-450m2-accept-partnership-ID116597860.html",
+      "type": "Land",
+      "location": "Bhamdoun, Aley",
+      "sqm": 2500,
+      "original_price": 1250000,
+      "current_price": 1100000,
+      "drop_usd": 150000,
+      "drop_pct": 12.0,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1250000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1100000,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
       "id": "116768778",
       "title": "Factory for Sale/ Nahr El Mot/نهر الموت/REF#GN132163 !",
       "url": "https://www.olx.com.lb/ad/factory-for-sale-nahr-el-motنهر-الموتrefgn132163-ID116768778.html",
@@ -5462,6 +5458,38 @@
         {
           "price": 230000,
           "date": "2026-04-03"
+        }
+      ]
+    },
+    {
+      "id": "116627619",
+      "title": "Prime Location Land In Bhamdoun For Sale / أرض في بحمدون للبيع",
+      "url": "https://www.olx.com.lb/ad/prime-location-land-in-bhamdoun-for-sale-أرض-في-بحمدون-للبيع-ID116627619.html",
+      "type": "Land",
+      "location": "Bhamdoun, Aley",
+      "sqm": 3000,
+      "original_price": 260000,
+      "current_price": 230000,
+      "drop_usd": 30000,
+      "drop_pct": 11.5,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 260000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 220000,
+          "date": "2026-04-29"
+        },
+        {
+          "price": 260000,
+          "date": "2026-05-01"
+        },
+        {
+          "price": 230000,
+          "date": "2026-05-09"
         }
       ]
     },
@@ -8142,6 +8170,30 @@
       ]
     },
     {
+      "id": "116842056",
+      "title": "apartments for sale in Carre dor Achrafieh شقق للبيع في اشرفية بيروت",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-carre-dor-achrafieh-شقق-للبيع-في-اشرفية-بيروت-ID116842056.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 230,
+      "original_price": 550000,
+      "current_price": 500000,
+      "drop_usd": 50000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 550000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 500000,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
       "id": "116810745",
       "title": "Land in Bsharri – Arez | 5,830 sqm | Zoning 20/40 REF#KM129072",
       "url": "https://www.olx.com.lb/ad/land-in-bsharri-arez-5830-sqm-zoning-2040-refkm129072-ID116810745.html",
@@ -10210,6 +10262,30 @@
       ]
     },
     {
+      "id": "116697160",
+      "title": "One of a kind project heart of Batroun/ البترون REF#RI129969",
+      "url": "https://www.olx.com.lb/ad/one-of-a-kind-project-heart-of-batroun-البترون-refri129969-ID116697160.html",
+      "type": "Apartment",
+      "location": "Batroun Town, Batroun",
+      "sqm": 70,
+      "original_price": 138000,
+      "current_price": 128000,
+      "drop_usd": 10000,
+      "drop_pct": 7.2,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 138000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 128000,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
       "id": "114669100",
       "title": "A quality style is what we present to you ! For Sale in Saifi",
       "url": "https://www.olx.com.lb/ad/a-quality-style-is-what-we-present-to-you-for-sale-in-saifi-ID114669100.html",
@@ -11594,6 +11670,34 @@
       ]
     },
     {
+      "id": "116686431",
+      "title": "Land for sale in Tannourine Hot Deal ارض للبيع في تنورين",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-tannourine-350k-hot-deal-ID116686431.html",
+      "type": "Land",
+      "location": "Tannourine, Batroun",
+      "sqm": 16000,
+      "original_price": 320000,
+      "current_price": 299000,
+      "drop_usd": 21000,
+      "drop_pct": 6.6,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 320000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 300000,
+          "date": "2026-04-05"
+        },
+        {
+          "price": 299000,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
       "id": "116812699",
       "title": "Achrafieh 3 Bdrm in Central Area",
       "url": "https://www.olx.com.lb/ad/achrafieh-3-bdrm-in-central-area-ID116812699.html",
@@ -11738,6 +11842,30 @@
         {
           "price": 430000,
           "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "116830927",
+      "title": "apartment for sale in dbayeh شقة للبيع في ضبية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dbayeh-شقة-للبيع-في-ضبية-ID116830927.html",
+      "type": "Apartment",
+      "location": "Dbaye, Metn",
+      "sqm": 130,
+      "original_price": 155000,
+      "current_price": 145000,
+      "drop_usd": 10000,
+      "drop_pct": 6.5,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 155000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 145000,
+          "date": "2026-05-09"
         }
       ]
     },
@@ -12002,30 +12130,6 @@
         {
           "price": 375000,
           "date": "2026-03-17"
-        }
-      ]
-    },
-    {
-      "id": "116686431",
-      "title": "Land for sale in Tannourine Hot Deal ارض للبيع في تنورين",
-      "url": "https://www.olx.com.lb/ad/land-for-sale-in-tannourine-350k-hot-deal-ID116686431.html",
-      "type": "Land",
-      "location": "Tannourine, Batroun",
-      "sqm": 16000,
-      "original_price": 320000,
-      "current_price": 300000,
-      "drop_usd": 20000,
-      "drop_pct": 6.2,
-      "last_drop_date": "2026-04-05",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 320000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 300000,
-          "date": "2026-04-05"
         }
       ]
     },
@@ -13814,6 +13918,30 @@
         {
           "price": 128000,
           "date": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "id": "116817902",
+      "title": "Apartment for sale mansourieh شقة للبيع المنصورية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-mansourieh-شقة-للبيع-المنصورية-ID116817902.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 180,
+      "original_price": 210000,
+      "current_price": 199000,
+      "drop_usd": 11000,
+      "drop_pct": 5.2,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 210000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 199000,
+          "date": "2026-05-09"
         }
       ]
     },
@@ -17542,6 +17670,30 @@
       ]
     },
     {
+      "id": "116882298",
+      "title": "Zouk Mikayel | Fixer Upper 140m² Office-Clinic-PolyCl | Prime Location",
+      "url": "https://www.olx.com.lb/ad/zouk-mikayel-fixer-upper-140m2-office-clinic-polycl-prime-location-ID116882298.html",
+      "type": "Commercial",
+      "location": "Zouk Mikael, Keserouan",
+      "sqm": 140,
+      "original_price": 89900,
+      "current_price": 86900,
+      "drop_usd": 3000,
+      "drop_pct": 3.3,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 89900,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 86900,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
       "id": "116794989",
       "title": "Apartment for Sale in New Mar Takla | Modern | With Garden & Terrace",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-new-mar-takla-modern-with-garden-terrace-ID116794989.html",
@@ -19413,7 +19565,7 @@
       "location": "Nahr El Mott, Metn",
       "sqm": 800,
       "original_price": 440000,
-      "current_price": 440000,
+      "current_price": 450000,
       "drop_usd": 10000,
       "drop_pct": 2.3,
       "last_drop_date": "2026-04-04",
@@ -19430,6 +19582,10 @@
         {
           "price": 440000,
           "date": "2026-04-05"
+        },
+        {
+          "price": 450000,
+          "date": "2026-05-09"
         }
       ]
     },
@@ -20914,6 +21070,30 @@
       ]
     },
     {
+      "id": "116813154",
+      "title": "Apartment for Sale in Mar Elias شقة للبيع في مار إلياس",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-mar-elias-شقة-للبيع-في-مار-إلياس-ID116813154.html",
+      "type": "Apartment",
+      "location": "Mar Elias, Beirut",
+      "sqm": 300,
+      "original_price": 425000,
+      "current_price": 420000,
+      "drop_usd": 5000,
+      "drop_pct": 1.2,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 425000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 420000,
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
       "id": "116815566",
       "title": "Apartment for sale in BLAT JBEIL شقة للبيع في بلاط - جبيل",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-blat-jbeil-شقة-للبيع-في-بلاط-جبيل-ID116815566.html",
@@ -21130,6 +21310,30 @@
         {
           "price": 98000,
           "date": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "id": "116806487",
+      "title": "Apartment for sale Mansourieh شقة للبيع المنصورية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-mansourieh-شقة-للبيع-المنصورية-ID116806487.html",
+      "type": "Apartment",
+      "location": "Mansourieh, Metn",
+      "sqm": 240,
+      "original_price": 485000,
+      "current_price": 480000,
+      "drop_usd": 5000,
+      "drop_pct": 1.0,
+      "last_drop_date": "2026-05-09",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 485000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 480000,
+          "date": "2026-05-09"
         }
       ]
     },
