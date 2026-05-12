@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-12T07:55:07.959628",
-  "total_tracked": 41475,
-  "total_drops": 956,
+  "generated_at": "2026-05-12T19:07:59.521287",
+  "total_tracked": 41520,
+  "total_drops": 961,
   "avg_drop_pct": 9.2,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -4910,6 +4910,30 @@
       ]
     },
     {
+      "id": "116853394",
+      "title": "Warehouse for Sale in Mansourieh",
+      "url": "https://www.olx.com.lb/ad/warehouse-for-sale-in-mansourieh-ID116853394.html",
+      "type": "Villa",
+      "location": "Mansourieh, Metn",
+      "sqm": 157,
+      "original_price": 155000,
+      "current_price": 135000,
+      "drop_usd": 20000,
+      "drop_pct": 12.9,
+      "last_drop_date": "2026-05-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 155000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 135000,
+          "date": "2026-05-12"
+        }
+      ]
+    },
+    {
       "id": "116802522",
       "title": "Prime Location Land In Bhamdoun For Sale / أرض مميزة في بحمدون للبيع",
       "url": "https://www.olx.com.lb/ad/prime-location-land-in-bhamdoun-for-sale-أرض-مميزة-في-بحمدون-للبيع-ID116802522.html",
@@ -8678,6 +8702,30 @@
       ]
     },
     {
+      "id": "116393775",
+      "title": "Apartment for sale in Semqanieh Chouf شقة للبيع في السمقانية الشوف",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-semqanieh-chouf-شقة-للبيع-في-السمقانية-الشوف-ID116393775.html",
+      "type": "Apartment",
+      "location": "Other in Chouf, Chouf",
+      "sqm": 180,
+      "original_price": 110000,
+      "current_price": 100000,
+      "drop_usd": 10000,
+      "drop_pct": 9.1,
+      "last_drop_date": "2026-05-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 110000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 100000,
+          "date": "2026-05-12"
+        }
+      ]
+    },
+    {
       "id": "116810745",
       "title": "Land in Bsharri – Arez | 5,830 sqm | Zoning 20/40 REF#KM129072",
       "url": "https://www.olx.com.lb/ad/land-in-bsharri-arez-5830-sqm-zoning-2040-refkm129072-ID116810745.html",
@@ -11814,6 +11862,30 @@
         {
           "price": 335000,
           "date": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "id": "116418686",
+      "title": "Chalet In Jeddayel For Sale | Sea View | شاليه للبيع | PLS 26292/B27",
+      "url": "https://www.olx.com.lb/ad/chalet-in-jeddayel-for-sale-sea-view-شاليه-للبيع-pls-26292b27-ID116418686.html",
+      "type": "Chalet",
+      "location": "Jeddayel, Jbeil",
+      "sqm": 109,
+      "original_price": 148000,
+      "current_price": 138000,
+      "drop_usd": 10000,
+      "drop_pct": 6.8,
+      "last_drop_date": "2026-05-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 148000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 138000,
+          "date": "2026-05-12"
         }
       ]
     },
@@ -16610,6 +16682,30 @@
       ]
     },
     {
+      "id": "116877284",
+      "title": "Apartment for sale in Hamra, beirut / الحمرا",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-hamra-beirut-الحمرا-ID116877284.html",
+      "type": "Apartment",
+      "location": "Hamra, Beirut",
+      "sqm": 200,
+      "original_price": 450000,
+      "current_price": 430000,
+      "drop_usd": 20000,
+      "drop_pct": 4.4,
+      "last_drop_date": "2026-05-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 430000,
+          "date": "2026-05-12"
+        }
+      ]
+    },
+    {
       "id": "116777867",
       "title": "Land for sale in Monteverde Ref#JF104 أرض للبيع في مونتفردي",
       "url": "https://www.olx.com.lb/ad/land-for-sale-in-monteverde-refjf104-أرض-للبيع-في-مونتفردي-ID116777867.html",
@@ -19274,6 +19370,30 @@
         {
           "price": 320000,
           "date": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "id": "116761670",
+      "title": "bungalow,Renovated, Terrace, furnished,Tabarja/طبرجا REF#NI131907",
+      "url": "https://www.olx.com.lb/ad/bungalowrenovated-terrace-furnishedtabarjaطبرجا-refni131907-ID116761670.html",
+      "type": "Apartment",
+      "location": "Tabarja, Keserouan",
+      "sqm": 66,
+      "original_price": 480000,
+      "current_price": 465000,
+      "drop_usd": 15000,
+      "drop_pct": 3.1,
+      "last_drop_date": "2026-05-12",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 480000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 465000,
+          "date": "2026-05-12"
         }
       ]
     },
