@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-14T07:54:01.803718",
-  "total_tracked": 42049,
-  "total_drops": 1006,
+  "generated_at": "2026-05-14T19:02:14.193663",
+  "total_tracked": 42211,
+  "total_drops": 1018,
   "avg_drop_pct": 9.2,
   "biggest_drop_usd": 2114000,
   "drops": [
@@ -2022,6 +2022,30 @@
         {
           "price": 280000,
           "date": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "id": "116601458",
+      "title": "RWB302CA - Land For Sale In Eddeh Jbeil with Sea and Mountain view",
+      "url": "https://www.olx.com.lb/ad/rwb302ca-land-for-sale-in-eddeh-jbeil-with-sea-and-mountain-view-ID116601458.html",
+      "type": "Land",
+      "location": "Eddeh, Jbeil",
+      "sqm": 1500,
+      "original_price": 200000,
+      "current_price": 160000,
+      "drop_usd": 40000,
+      "drop_pct": 20.0,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 200000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 160000,
+          "date": "2026-05-14"
         }
       ]
     },
@@ -5146,6 +5170,30 @@
       ]
     },
     {
+      "id": "116839255",
+      "title": "Land for sale in Maaysra Nahr Ibrahim",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-maaysra-nahr-ibrahim-ID116839255.html",
+      "type": "Land",
+      "location": "Maaysrah, Keserouan",
+      "sqm": 6300,
+      "original_price": 230000,
+      "current_price": 200000,
+      "drop_usd": 30000,
+      "drop_pct": 13.0,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 230000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 200000,
+          "date": "2026-05-14"
+        }
+      ]
+    },
+    {
       "id": "116717266",
       "title": "Apartment with Garden in Mansourieh for sale شقة وحديقة في المنصورية",
       "url": "https://www.olx.com.lb/ad/apartment-with-garden-in-mansourieh-for-sale-شقة-وحديقة-في-المنصورية-ID116717266.html",
@@ -5615,7 +5663,7 @@
     },
     {
       "id": "116597860",
-      "title": "HOT DEAL land for sale in Bhamdoun autostrade أرض للبيع بحمدون",
+      "title": "Land for sale in Bhamdoun autostrade أرض للبيع بحمدون",
       "url": "https://www.olx.com.lb/ad/land-for-sale-in-bhamdoun-baalchmey-2500m2-450m2-accept-partnership-ID116597860.html",
       "type": "Land",
       "location": "Bhamdoun, Aley",
@@ -6602,6 +6650,30 @@
         {
           "price": 65000,
           "date": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "id": "116477302",
+      "title": "Sahel Alma | 270 sqm + 50 sqm Garden | Prime Location",
+      "url": "https://www.olx.com.lb/ad/sahel-alma-270-sqm-50-sqm-garden-prime-location-ID116477302.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 270,
+      "original_price": 365000,
+      "current_price": 325000,
+      "drop_usd": 40000,
+      "drop_pct": 11.0,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 365000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 325000,
+          "date": "2026-05-14"
         }
       ]
     },
@@ -9198,6 +9270,30 @@
         {
           "price": 100000,
           "date": "2026-05-12"
+        }
+      ]
+    },
+    {
+      "id": "116784517",
+      "title": "under construction apartment for sale in Hazmiyeh mar takla",
+      "url": "https://www.olx.com.lb/ad/under-construction-apartment-for-sale-in-hazmiyeh-mar-takla-ID116784517.html",
+      "type": "Apartment",
+      "location": "Hazmiyeh, Baabda",
+      "sqm": 205,
+      "original_price": 512000,
+      "current_price": 466000,
+      "drop_usd": 46000,
+      "drop_pct": 9.0,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 512000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 466000,
+          "date": "2026-05-14"
         }
       ]
     },
@@ -13146,6 +13242,34 @@
       ]
     },
     {
+      "id": "116856848",
+      "title": "Apartment for Sale in Dekwaneh - شقة للبيع في الدكوانة",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dekwaneh-شقة-للبيع-في-الدكوانة-ID116856848.html",
+      "type": "Apartment",
+      "location": "Dekwaneh, Metn",
+      "sqm": 115,
+      "original_price": 150000,
+      "current_price": 140000,
+      "drop_usd": 10000,
+      "drop_pct": 6.7,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 150000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 149000,
+          "date": "2026-04-28"
+        },
+        {
+          "price": 140000,
+          "date": "2026-05-14"
+        }
+      ]
+    },
+    {
       "id": "116857610",
       "title": "Chalet in Samaya Kaslik for Sale شاليه للبيع في السمايا كسليك",
       "url": "https://www.olx.com.lb/ad/chalet-in-samaya-kaslik-for-sale-شاليه-للبيع-في-السمايا-كسليك-ID116857610.html",
@@ -15102,6 +15226,30 @@
       ]
     },
     {
+      "id": "116690029",
+      "title": "Mountain and sea view IN SAKIET L KHET ! REF#NI129718 !",
+      "url": "https://www.olx.com.lb/ad/mountain-and-sea-view-in-sakiet-l-khet-refni129718-ID116690029.html",
+      "type": "Apartment",
+      "location": "Other in Jbeil, Jbeil",
+      "sqm": 585,
+      "original_price": 900000,
+      "current_price": 850000,
+      "drop_usd": 50000,
+      "drop_pct": 5.6,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 900000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 850000,
+          "date": "2026-05-14"
+        }
+      ]
+    },
+    {
       "id": "115804047",
       "title": "Apartment for sale in Nabay شقة للبيع في ناباي",
       "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-nabay-شقة-للبيع-في-ناباي-ID115804047.html",
@@ -15438,6 +15586,30 @@
       ]
     },
     {
+      "id": "116695090",
+      "title": "Apartment for sale in Sin EL Fil NY335  شقة  للبيع في سن الفيل",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sin-el-fil-ny335-شقة-للبيع-في-سن-الفيل-ID116695090.html",
+      "type": "Apartment",
+      "location": "Sin El Fil, Metn",
+      "sqm": 118,
+      "original_price": 190000,
+      "current_price": 180000,
+      "drop_usd": 10000,
+      "drop_pct": 5.3,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 190000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 180000,
+          "date": "2026-05-14"
+        }
+      ]
+    },
+    {
       "id": "116754108",
       "title": "apartments for sale in Achrafieh شقق للبيع في الاشرفية",
       "url": "https://www.olx.com.lb/ad/underconstruction-apartment-for-sale-in-achrafiehشقق-للبيع-في-الاشرفية-ID116754108.html",
@@ -15602,6 +15774,30 @@
         {
           "price": 360000,
           "date": "2026-05-02"
+        }
+      ]
+    },
+    {
+      "id": "116840760",
+      "title": "Spacious Garden , For Sale in Dibbiyeh / الدبية- الشوف REF#DI134576",
+      "url": "https://www.olx.com.lb/ad/spacious-garden-for-sale-in-dibbiyeh-الدبية-الشوف-refdi134576-ID116840760.html",
+      "type": "Apartment",
+      "location": "Dibbiyeh, Chouf",
+      "sqm": 165,
+      "original_price": 95000,
+      "current_price": 90000,
+      "drop_usd": 5000,
+      "drop_pct": 5.3,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 95000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 90000,
+          "date": "2026-05-14"
         }
       ]
     },
@@ -16438,6 +16634,30 @@
         {
           "price": 380000,
           "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "116517591",
+      "title": "Chalet for sale in Tilal Al Assal/ Garden/ View",
+      "url": "https://www.olx.com.lb/ad/chalet-for-sale-in-tilal-al-assal-garden-view-ID116517591.html",
+      "type": "Chalet",
+      "location": "Faraya, Keserouan",
+      "sqm": 232,
+      "original_price": 493000,
+      "current_price": 469000,
+      "drop_usd": 24000,
+      "drop_pct": 4.9,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 493000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 469000,
+          "date": "2026-05-14"
         }
       ]
     },
@@ -17286,6 +17506,30 @@
       ]
     },
     {
+      "id": "116782988",
+      "title": "duplex apartments for sale in mastita jbeil شقق للبيع في جبيل",
+      "url": "https://www.olx.com.lb/ad/duplex-apartments-for-sale-in-mastita-jbeil-شقق-للبيع-في-جبيل-ID116782988.html",
+      "type": "Duplex",
+      "location": "Mastita, Jbeil",
+      "sqm": 200,
+      "original_price": 225000,
+      "current_price": 215000,
+      "drop_usd": 10000,
+      "drop_pct": 4.4,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 225000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 215000,
+          "date": "2026-05-14"
+        }
+      ]
+    },
+    {
       "id": "116765747",
       "title": "Ghadir | 799$/m² | 3 Bedrooms | 2 Balconies | Great Building Condition",
       "url": "https://www.olx.com.lb/ad/ghadir-799m2-3-bedrooms-2-balconies-great-building-condition-ID116765747.html",
@@ -17958,6 +18202,30 @@
         {
           "price": 460000,
           "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "116818129",
+      "title": "Warehouse for sale in Bchamoun MJ52 مستودع  للبيع في بشامون",
+      "url": "https://www.olx.com.lb/ad/warehouse-for-sale-in-bchamoun-mj52-مستودع-للبيع-في-بشامون-ID116818129.html",
+      "type": "Villa",
+      "location": "Bchamoun, Aley",
+      "sqm": 150,
+      "original_price": 73000,
+      "current_price": 70000,
+      "drop_usd": 3000,
+      "drop_pct": 4.1,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 73000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 70000,
+          "date": "2026-05-14"
         }
       ]
     },
@@ -18782,6 +19050,30 @@
       ]
     },
     {
+      "id": "116852882",
+      "title": "Office for sale in Baouchrieh DW56 مكتب للبيع في بوشرية",
+      "url": "https://www.olx.com.lb/ad/office-for-sale-in-baouchrieh-dw56-مكتب-للبيع-في-بوشرية-ID116852882.html",
+      "type": "Commercial",
+      "location": "Baouchriye, Metn",
+      "sqm": 55,
+      "original_price": 78000,
+      "current_price": 75000,
+      "drop_usd": 3000,
+      "drop_pct": 3.8,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 78000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 75000,
+          "date": "2026-05-14"
+        }
+      ]
+    },
+    {
       "id": "116236827",
       "title": "RAO26-4987 Warehouse 1200m2 for sale in Baabda, $ 1,300,000 cash",
       "url": "https://www.olx.com.lb/ad/rao26-4987-warehouse-1200m2-for-sale-in-baabda-1300000-cash-ID116236827.html",
@@ -18837,7 +19129,7 @@
       "location": "Baouchriye, Metn",
       "sqm": 150,
       "original_price": 270000,
-      "current_price": 260000,
+      "current_price": 310000,
       "drop_usd": 10000,
       "drop_pct": 3.7,
       "last_drop_date": "2026-05-09",
@@ -18854,6 +19146,10 @@
         {
           "price": 260000,
           "date": "2026-05-09"
+        },
+        {
+          "price": 310000,
+          "date": "2026-05-14"
         }
       ]
     },
@@ -20502,6 +20798,30 @@
         {
           "price": 95000,
           "date": "2026-04-29"
+        }
+      ]
+    },
+    {
+      "id": "116526213",
+      "title": "Prime Location Apart For Sale Ain Saadeh شقة للبيع في عين سعادة Exclus",
+      "url": "https://www.olx.com.lb/ad/prime-location-apart-for-sale-ain-saadeh-شقة-للبيع-في-عين-سعادة-exclus-ID116526213.html",
+      "type": "Apartment",
+      "location": "Ain Saadeh, Metn",
+      "sqm": 245,
+      "original_price": 390000,
+      "current_price": 378000,
+      "drop_usd": 12000,
+      "drop_pct": 3.1,
+      "last_drop_date": "2026-05-14",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 390000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 378000,
+          "date": "2026-05-14"
         }
       ]
     },
@@ -24266,30 +24586,6 @@
         {
           "price": 606000,
           "date": "2026-04-13"
-        }
-      ]
-    },
-    {
-      "id": "116856848",
-      "title": "Apartment for Sale in Dekwaneh - شقة للبيع في الدكوانة",
-      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-dekwaneh-شقة-للبيع-في-الدكوانة-ID116856848.html",
-      "type": "Apartment",
-      "location": "Dekwaneh, Metn",
-      "sqm": 115,
-      "original_price": 150000,
-      "current_price": 149000,
-      "drop_usd": 1000,
-      "drop_pct": 0.7,
-      "last_drop_date": "2026-04-28",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 150000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 149000,
-          "date": "2026-04-28"
         }
       ]
     },
