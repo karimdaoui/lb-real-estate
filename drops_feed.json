@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T07:28:58.828632",
-  "total_tracked": 42531,
-  "total_drops": 1051,
-  "avg_drop_pct": 9.2,
+  "generated_at": "2026-05-16T18:04:33.258738",
+  "total_tracked": 42643,
+  "total_drops": 1060,
+  "avg_drop_pct": 9.3,
   "biggest_drop_usd": 2114000,
   "drops": [
     {
@@ -682,6 +682,30 @@
         {
           "price": 2200000,
           "date": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "116519505",
+      "title": "Apartments for Sale Clemenceau Ras Beirut. شقق للبيع كليمنصو راس بيروت",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-clemenceau-ras-beirut-شقق-للبيع-كليمنصو-راس-بيروت-ID116519505.html",
+      "type": "Apartment",
+      "location": "Clemenceau, Beirut",
+      "sqm": 465,
+      "original_price": 2100000,
+      "current_price": 1450000,
+      "drop_usd": 650000,
+      "drop_pct": 31.0,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 2100000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1450000,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -1670,6 +1694,30 @@
         {
           "price": 2200000,
           "date": "2026-05-06"
+        }
+      ]
+    },
+    {
+      "id": "115494075",
+      "title": "Beautiful Land | Mountain View | Easy Access",
+      "url": "https://www.olx.com.lb/ad/beautiful-land-mountain-view-easy-access-ID115494075.html",
+      "type": "Land",
+      "location": "Hammana, Baabda",
+      "sqm": 3900,
+      "original_price": 280000,
+      "current_price": 220000,
+      "drop_usd": 60000,
+      "drop_pct": 21.4,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 280000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 220000,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -3382,6 +3430,30 @@
       ]
     },
     {
+      "id": "116439490",
+      "title": "Sahel Alma | 330 sqm + 300 sqm Terrace",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-sahel-alma330-sqm-terrace-شقة-للبيع-في-ساحل-علما-ID116439490.html",
+      "type": "Apartment",
+      "location": "Sahel Alma, Keserouan",
+      "sqm": 330,
+      "original_price": 450000,
+      "current_price": 375000,
+      "drop_usd": 75000,
+      "drop_pct": 16.7,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 375000,
+          "date": "2026-05-16"
+        }
+      ]
+    },
+    {
       "id": "116844369",
       "title": "Renovated 2 bedroom apartment 4sale in Ain El Remmaneh - عين الرمانة",
       "url": "https://www.olx.com.lb/ad/renovated-2-bedroom-apartment-4sale-in-ain-el-remmaneh-عين-الرمانة-ID116844369.html",
@@ -3426,6 +3498,30 @@
         {
           "price": 50000,
           "date": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "116579506",
+      "title": "Apartment For Sale in Achrafieh شقة للبيع في الأشرفية",
+      "url": "https://www.olx.com.lb/ad/apartment-for-sale-in-achrafieh-شقة-للبيع-في-الأشرفية-ID116579506.html",
+      "type": "Apartment",
+      "location": "Achrafieh, Beirut",
+      "sqm": 200,
+      "original_price": 450000,
+      "current_price": 375000,
+      "drop_usd": 75000,
+      "drop_pct": 16.7,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 450000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 375000,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -3662,6 +3758,30 @@
         {
           "price": 960000,
           "date": "2026-04-16"
+        }
+      ]
+    },
+    {
+      "id": "116009909",
+      "title": "Feytroun/Satellity 150m2 | Spacious Furnished Chalet | Rarely Used|DA",
+      "url": "https://www.olx.com.lb/ad/feytrounsatellity-150m2-spacious-furnished-chalet-rarely-usedda-ID116009909.html",
+      "type": "Chalet",
+      "location": "Faitroun, Keserouan",
+      "sqm": 150,
+      "original_price": 220000,
+      "current_price": 185000,
+      "drop_usd": 35000,
+      "drop_pct": 15.9,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 220000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 185000,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -8182,6 +8302,30 @@
       ]
     },
     {
+      "id": "116306928",
+      "title": "DUPLEX WITH TERRACE FOR SALE - BADARO شقة للبيع بدارو",
+      "url": "https://www.olx.com.lb/ad/duplex-with-terrace-for-sale-badaro-شقة-للبيع-بدارو-ID116306928.html",
+      "type": "Duplex",
+      "location": "Badaro, Beirut",
+      "sqm": 510,
+      "original_price": 1000000,
+      "current_price": 900000,
+      "drop_usd": 100000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1000000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 900000,
+          "date": "2026-05-16"
+        }
+      ]
+    },
+    {
       "id": "116875853",
       "title": "Warehouse For Sale -Horsh Tabet- مستودع للبيع في حرش تابت",
       "url": "https://www.olx.com.lb/ad/warehouse-for-sale-horsh-tabet-مستودع-للبيع-في-حرش-تابت-ID116875853.html",
@@ -8230,6 +8374,30 @@
         {
           "price": 200000,
           "date": "2026-05-15"
+        }
+      ]
+    },
+    {
+      "id": "116896266",
+      "title": "land for sale in jrebta batroun أرض للبيع في جربتا البترون",
+      "url": "https://www.olx.com.lb/ad/land-for-sale-in-jrebta-batroun-أرض-للبيع-في-جربتا-البترون-ID116896266.html",
+      "type": "Land",
+      "location": "Other in Batroun, Batroun",
+      "sqm": 39000,
+      "original_price": 1950000,
+      "current_price": 1755000,
+      "drop_usd": 195000,
+      "drop_pct": 10.0,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 1950000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 1755000,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -10662,6 +10830,30 @@
       ]
     },
     {
+      "id": "115819711",
+      "title": "140 SQM Brand New Apartment in Naccache, Metn",
+      "url": "https://www.olx.com.lb/ad/140-sqm-brand-new-apartment-in-naccache-metn-ID115819711.html",
+      "type": "Apartment",
+      "location": "Naccache, Metn",
+      "sqm": 140,
+      "original_price": 207000,
+      "current_price": 190000,
+      "drop_usd": 17000,
+      "drop_pct": 8.2,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 207000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 190000,
+          "date": "2026-05-16"
+        }
+      ]
+    },
+    {
       "id": "116720624",
       "title": "Spacious Apartment for Sale in Jal el Dib – CPFY96",
       "url": "https://www.olx.com.lb/ad/spacious-apartment-for-sale-in-jal-el-dib-cpfy96-ID116720624.html",
@@ -12074,6 +12266,34 @@
         {
           "price": 1299000,
           "date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "id": "116845940",
+      "title": "apartments for sale in al zarif msaytbeh شقق للبيع في الظريف مصيطبة",
+      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-al-zarif-msaytbeh-شقق-للبيع-في-الظريف-مصيطبة-ID116845940.html",
+      "type": "Apartment",
+      "location": "Msaytbeh, Beirut",
+      "sqm": 180,
+      "original_price": 375000,
+      "current_price": 348000,
+      "drop_usd": 27000,
+      "drop_pct": 7.2,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 375000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 364000,
+          "date": "2026-04-17"
+        },
+        {
+          "price": 348000,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -13713,10 +13933,10 @@
       "location": "Kaslik, Keserouan",
       "sqm": 35,
       "original_price": 150000,
-      "current_price": 150000,
+      "current_price": 140000,
       "drop_usd": 10000,
       "drop_pct": 6.7,
-      "last_drop_date": "2026-04-22",
+      "last_drop_date": "2026-05-16",
       "first_seen": "2026-03-01",
       "price_history": [
         {
@@ -13730,6 +13950,10 @@
         {
           "price": 150000,
           "date": "2026-05-04"
+        },
+        {
+          "price": 140000,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -14974,6 +15198,30 @@
         {
           "price": 85000,
           "date": "2026-05-15"
+        }
+      ]
+    },
+    {
+      "id": "116565179",
+      "title": "4floors Building 4 apartments Bhamdoun Village Abo Gaby Total Station",
+      "url": "https://www.olx.com.lb/ad/4floors-building-sale-bhamdoun-village-abo-gaby-total-gas-station-ID116565179.html",
+      "type": "Villa",
+      "location": "Bhamdoun, Aley",
+      "sqm": 650,
+      "original_price": 345000,
+      "current_price": 325000,
+      "drop_usd": 20000,
+      "drop_pct": 5.8,
+      "last_drop_date": "2026-05-16",
+      "first_seen": "2026-03-01",
+      "price_history": [
+        {
+          "price": 345000,
+          "date": "2026-03-01"
+        },
+        {
+          "price": 325000,
+          "date": "2026-05-16"
         }
       ]
     },
@@ -22190,30 +22438,6 @@
         {
           "price": 170000,
           "date": "2026-05-08"
-        }
-      ]
-    },
-    {
-      "id": "116845940",
-      "title": "apartments for sale in al zarif msaytbeh شقق للبيع في الظريف مصيطبة",
-      "url": "https://www.olx.com.lb/ad/apartments-for-sale-in-al-zarif-msaytbeh-شقق-للبيع-في-الظريف-مصيطبة-ID116845940.html",
-      "type": "Apartment",
-      "location": "Msaytbeh, Beirut",
-      "sqm": 180,
-      "original_price": 375000,
-      "current_price": 364000,
-      "drop_usd": 11000,
-      "drop_pct": 2.9,
-      "last_drop_date": "2026-04-17",
-      "first_seen": "2026-03-01",
-      "price_history": [
-        {
-          "price": 375000,
-          "date": "2026-03-01"
-        },
-        {
-          "price": 364000,
-          "date": "2026-04-17"
         }
       ]
     },
